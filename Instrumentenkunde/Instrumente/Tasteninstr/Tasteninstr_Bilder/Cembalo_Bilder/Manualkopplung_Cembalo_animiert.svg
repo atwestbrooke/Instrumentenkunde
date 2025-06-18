@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="241.76646mm"
+   height="160.80666mm"
+   viewBox="0 0 241.76646 160.80666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="Manualkopplung_Cembalo_animiert.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     lock-margins="true"
+     fit-margin-top="12"
+     fit-margin-left="12"
+     fit-margin-right="12"
+     fit-margin-bottom="12"
+     inkscape:zoom="2.0121296"
+     inkscape:cx="623.46879"
+     inkscape:cy="431.13525"
+     inkscape:window-width="1177"
+     inkscape:window-height="594"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="untere_Taste">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6016" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3418"
+       x="-0.045855075"
+       y="-0.13863657"
+       width="1.1342091"
+       height="1.2772731">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.44957043"
+         id="feGaussianBlur3420" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7104"
+       x="-0.021314842"
+       y="-1.1274128"
+       width="1.0426297"
+       height="3.2548255">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6705198"
+         id="feGaussianBlur7106" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(24.565798,-19.773056)">
+    <g
+       id="obere_Taste_gesamt"
+       transform="translate(0.52916667,-9.5250003)">
+      <path
+         style="fill:none;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3418)"
+         d="M 124.28591,128.73326 H 147.81589 V 143.72908 H 135.28591"
+         id="obere_Taste_Polster"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="obere_Taste_Taste"
+         style="fill:#fff6d5;fill-rule:evenodd;stroke:#000000;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000">
+        <animate
+           dur="0.8s"
+           attributeName="d"
+           repeatCount="indefinite"
+           fill="freeze"
+           values="M 40.743786,129.73355 L 146.8471,129.73355 V 142.72134 L 40.743786,142.72134 Z; M 40.743786,129.73355 L 146.8471,122.73355 V 135.72134 L 40.743786,142.72134 Z; M 40.743786,129.73355 L 146.8471,129.73355 V 142.72134 L 40.743786,142.72134 Z" />
+      </path>
+    </g>
+    <g
+       id="untere_Taste"
+       transform="translate(-3.1750001)">
+      <path
+         id="untere_Taste_Taste"
+         style="fill:#ffe6d5;fill-rule:evenodd;stroke:#000000;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000">
+        <animate
+           dur="0.8s"
+           attributeName="d"
+           repeatCount="indefinite"
+           fill="freeze"
+           values="M -9.1791315,152.54454 L 203.55604,152.54454 V 165.53233 L -9.1791315,165.53233 Z; M -9.1791315,152.54454 L 203.55604,145.54454 V 158.53233 L -9.1791315,165.53233 Z;M -9.1791315,152.54454 L 203.55604,152.54454 V 165.53233 L -9.1791315,165.53233 Z" />
+      </path>
+      <path
+         style="fill:none;stroke:#aa4400;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3418)"
+         d="M 162.2047,151.50493 H 204.62745 V 166.50075 H 192.09747"
+         id="path5145"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#784421;stroke:#502d16;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="Dog"
+         sodipodi:nodetypes="cc">
+            <animate
+               dur="0.8s"
+               attributeName="d"
+               repeatCount="indefinite"
+               fill="freeze"
+               values="M 156.30613,138.40563 V 156.91674; M 156.30613,131.40563 V 149.91674; M 156.30613,138.40563 V 156.91674"/>
+        </path>
+    </g>
+    <g
+       id="Springer_8Fuss_oben"
+       transform="translate(0.52916667,-7.4083337)">
+      <rect
+         style="fill:#fff6d5;fill-rule:evenodd;stroke:#000000;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect1717"
+         width="12.167007"
+         height="75.434547"
+         x="129.81699"
+         y="42.568066"
+         ry="4.2443042" />
+      <g
+         id="g2031"
+         transform="translate(8.9824338,-4.2333335)"
+         style="fill:#4d4d4d">
+        <rect
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect1843"
+           width="2.8493042"
+           height="3.8403721"
+           x="125.49344"
+           y="122.02471"
+           ry="0" />
+        <rect
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.56076;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2027"
+           width="5"
+           height="3.8399999"
+           x="124.78486"
+           y="-128.83809"
+           ry="0"
+           transform="rotate(90)" />
+      </g>
+    </g>
+    <g
+       id="Springer_8Fuss_unten"
+       transform="translate(2.1166667,2.1166667)">
+      <rect
+         style="fill:#ffe6d5;fill-rule:evenodd;stroke:#000000;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect1633"
+         width="12.167005"
+         height="108.08827"
+         x="156.51009"
+         y="31.984722"
+         ry="4.2443042" />
+      <g
+         id="g2037"
+         transform="translate(35.675577,18.25995)"
+         style="fill:#4d4d4d">
+        <rect
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2033"
+           width="2.8493042"
+           height="3.8403721"
+           x="125.49344"
+           y="122.02471"
+           ry="0" />
+        <rect
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.385669;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2035"
+           width="5"
+           height="3.8403702"
+           x="124.78486"
+           y="-128.83827"
+           ry="0"
+           transform="rotate(90)" />
+      </g>
+    </g>
+    <g
+       id="Springer_4Fuss"
+       transform="translate(2.1166667,2.1166667)">
+      <rect
+         style="fill:#ffe6d5;fill-rule:evenodd;stroke:#000000;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+         id="rect1715"
+         width="12.167005"
+         height="108.08827"
+         x="182.34705"
+         y="31.984722"
+         ry="4.2443042" />
+      <g
+         id="g2043"
+         transform="translate(61.512634,18.25995)"
+         style="fill:#4d4d4d">
+        <rect
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.423333;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2039"
+           width="2.8493042"
+           height="3.8403721"
+           x="125.49344"
+           y="122.02471"
+           ry="0" />
+        <rect
+           style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:0.375931;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect2041"
+           width="5"
+           height="3.7282407"
+           x="124.78486"
+           y="-128.83827"
+           ry="0"
+           transform="rotate(90)" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#deaa87;fill-rule:evenodd;stroke:#d6a585;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7104);stop-color:#000000"
+       id="rect7524"
+       width="203.29968"
+       height="2.7578609"
+       x="-16.781311"
+       y="178.37914"
+       ry="0"
+       transform="translate(0.52916679,-7.4083333)" />
+    <rect
+       style="opacity:1;fill:#deaa87;fill-rule:evenodd;stroke:#d6a585;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7104);stop-color:#000000"
+       id="rect6222"
+       width="145.87242"
+       height="3.4130363"
+       x="-13.606313"
+       y="145.5455"
+       ry="0"
+       transform="translate(0.52916679,-7.4083333)" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect6414"
+       width="93.118546"
+       height="159.63179"
+       x="-23.885633"
+       y="27.786055"
+       ry="3.3256536"
+       transform="translate(0.52916679,-7.4083333)" />
+  </g>
+</svg>

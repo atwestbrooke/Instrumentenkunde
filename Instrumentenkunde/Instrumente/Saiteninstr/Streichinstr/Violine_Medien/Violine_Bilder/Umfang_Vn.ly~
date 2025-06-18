@@ -1,0 +1,24 @@
+
+#(set! paper-alist (cons '("dynamic" . (cons (* 15 in) (* 1.5 in))) paper-alist))
+\paper {
+#(set-paper-size "dynamic")
+#(define top-margin (* 4))
+#(define bottom-margin (* 2))
+#(define left-margin (* 5))
+#(define right-margin (* 5))
+	tagline = ##f
+	page-breaking = #ly:one-line-breaking
+} 
+
+\score {
+ \new Staff
+  \relative g {
+   \hide Staff.BarLine
+   \once \hide Staff.TimeSignature
+   \once \set glissandoMap = #'((3 . 0))
+    \override Score.NonMusicalPaperColumn.full-measure-extra-space = #5 <g d' a' e'>1\glissando | \override Score.NonMusicalPaperColumn.full-measure-extra-space = #-1 \ottava #1 g'''' | c\harmonic
+   }
+}
+
+
+\version "2.18.2"  % necessary for upgrading to future LilyPond versions.

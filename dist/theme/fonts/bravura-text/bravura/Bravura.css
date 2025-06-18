@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Bravura';
+    src: url('Bravura.eot');
+    src: url('Bravura.eot?#iefix') format('embedded-opentype'),
+         url('Bravura.woff') format('woff'),
+         url('Bravura.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bravura';
+    src: url('Bravura.eot');
+    src: url('Bravura.eot?#iefix') format('embedded-opentype'),
+         url('Bravura.woff') format('woff'),
+         url('Bravura.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bravura';
+    src: url('Bravura.eot');
+    src: url('Bravura.eot?#iefix') format('embedded-opentype'),
+         url('Bravura.woff') format('woff'),
+         url('Bravura.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bravura';
+    src: url('Bravura.eot');
+    src: url('Bravura.eot?#iefix') format('embedded-opentype'),
+         url('Bravura.woff') format('woff'),
+         url('Bravura.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}

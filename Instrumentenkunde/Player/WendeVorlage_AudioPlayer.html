@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+                <input style="width:0;height:0;visibility: hidden" type="number" id="score-7">
+                <div id="proxy-7" style="width:0;height:0;visibility: hidden"></div>
+                
+                <script>
+                    let pageRef7 = 1;
+                    let proxy7 = document.getElementById("proxy-7")
+                    let observer = new MutationObserver(watcher7 => {
+                        if (document.getElementById("score-7").valueAsNumber > 22.1) {
+                            if (pageRef7 != 2) {
+                            pageRef7 =2;
+                            document.getElementById("AudioScore7").src = "Streichinstr._Medien/Streichinstr._Bilder/Boccherini_Quintett_D-Dur_Uebergang-zur-Durchf._1._Satz_2a.png";
+                                 }
+                            } 
+                            else if (pageRef7 == 2) {
+                            pageRef7 = 1;
+                            document.getElementById("AudioScore7").src = "Streichinstr._Medien/Streichinstr._Bilder/Boccherini_Quintett_D-Dur_Uebergang-zur-Durchf._1._Satz_1a.png";
+                            };
+                    } );
+                    observer.observe (proxy7, {
+                        childList: true,
+                        subtree: true,
+                        characterDataOldValue: false
+                        });
+                </script>
+</html>
+                

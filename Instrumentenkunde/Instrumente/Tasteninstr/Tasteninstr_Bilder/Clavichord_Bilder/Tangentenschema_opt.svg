@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 227.606 174.186"
+   height="658.341"
+   width="860.243"
+   version="1.1"
+   id="svg181492"
+   sodipodi:docname="Tangentenschema_opt.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview181494"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.39670669"
+     inkscape:cx="310.05275"
+     inkscape:cy="160.06788"
+     inkscape:window-width="1013"
+     inkscape:window-height="480"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g181490" />
+  <defs
+     id="defs181278">
+    <style
+       id="style833">
+           @import url('https://fontlibrary.org/face/libertinus-sans');
+           @import url('https://fontlibrary.org/face/libertinus-math')
+       </style>
+  </defs>
+  <style
+     id="style181280"><![CDATA[.B{stroke:#000}.C{stroke-linejoin:round}.D{fill-rule:evenodd}.E{overflow:visible}.F{fill-opacity:1}.G{stroke-width:.625}.H{stroke-opacity:1}.I{fill:none}.J{font-size:7.056px}.K{stroke-linejoin:bevel}.L{font-family:Libertinus sans}.M{fill:#000}.N{fill:#fff}.O{stroke-width:1.1}.P{fill:#a20324}.Q{stroke-width:1.5}.R{stroke-width:1.2}.S{stroke:#a20324}.T{stroke-width:.265}.U{font-family:Libertinus Math}.V{font-style:italic}]]></style>
+  <defs
+     id="defs181318">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="A"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="scale(.6)"
+         class="C D F G H P S"
+         id="path181282" />
+    </marker>
+    <marker
+       id="B"
+       refX="0"
+       refY="0"
+       orient="auto"
+       class="E">
+      <path
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         class="B C D F G H M"
+         id="path181285" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="C"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         class="B C D F G H M"
+         id="path181288" />
+    </marker>
+    <marker
+       id="D"
+       refX="0"
+       refY="0"
+       orient="auto"
+       class="E">
+      <path
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         class="B C D F G H M"
+         id="path181291" />
+    </marker>
+    <marker
+       id="E"
+       refX="0"
+       refY="0"
+       orient="auto"
+       class="E">
+      <path
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         class="B C D F G H M"
+         id="path181294" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="F"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         class="B C D F G H M"
+         id="path181297" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="G"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         class="B C D F G H M"
+         id="path181300" />
+    </marker>
+    <marker
+       id="H"
+       refX="0"
+       refY="0"
+       orient="auto"
+       class="E">
+      <path
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         class="B C D F G H M"
+         id="path181303" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="I"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         class="B C D F G H M"
+         id="path181306" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="J"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="matrix(-.3 0 0 -.3 .69 0)"
+         class="B C D F G H M"
+         id="path181309" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="K"
+       class="E">
+      <path
+         d="M8.72 4.034L-2.207.016 8.72-4.002c-1.745 2.372-1.735 5.617 0 8.035z"
+         transform="scale(-.6)"
+         class="C D F G H P S"
+         id="path181312" />
+    </marker>
+    <clipPath
+       id="L">
+      <path
+         d="M69.124 85.644h59.07v27.527h-59.07zm32.952 10.094l.61 2.88 1.77.5 2.505-1.97z"
+         class="D"
+         id="path181315" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(27.002 -28.157)"
+     id="g181490">
+    <g
+       class="B N K"
+       id="g181330">
+      <g
+         class="Q"
+         id="g181326">
+        <path
+           d="M135.124 127.524l10.278 3.1-.5-10.048-6.732-1.86z"
+           id="path181320" />
+        <path
+           d="M138.18 118.716l29.248-18.2 6.732 1.86-29.248 18.2z"
+           id="path181322" />
+        <path
+           d="M145.402 130.624l29.248-18.2-.5-10.048-29.248 18.2.5 10.048"
+           id="path181324" />
+      </g>
+      <path
+         d="M142.472 117.846l28.268-17.655 1.638.46-28.005 17.786z"
+         class="R"
+         id="path181328" />
+    </g>
+    <g
+       class="I B R"
+       id="g181336">
+      <path
+         d="M142.472 117.846l-2.128 1.056 3.193 1.064.835-1.53"
+         id="path181332" />
+      <path
+         d="M172.474 100.552l1.686 1.825"
+         class="K"
+         id="path181334" />
+    </g>
+    <g
+       class="N B K"
+       id="g181346">
+      <path
+         d="M74.464 95.266l40.86 12.223v14.444L74.464 109.7z"
+         stroke-width="1.738"
+         id="path181338" />
+      <g
+         class="Q"
+         id="g181344">
+        <path
+           clip-path="url(#L)"
+           d="M74.464 95.266l7.65-3.903 40.738 12.186-7.65 3.903-11.835-3.54z"
+           id="path181340" />
+        <path
+           d="M115.445 107.33l-.122 14.602 7.65-3.903.122-14.602z"
+           id="path181342" />
+      </g>
+    </g>
+    <path
+       d="M96.876 101.25l.223 12.932 2.174.725 2.275-12.46 4.6-3.182-3.712-1.106z"
+       class="B T"
+       id="path181348" />
+    <g
+       stroke-width=".8"
+       class="N B"
+       id="g181354">
+      <path
+         d="M94.112 110.923l3.004-2.462 1.09-3.914 2.323-1.86 1.91-1.514-1.648-.687-4.39 3.242-1.355 4.207-2.662 2.166z"
+         id="path181350" />
+      <path
+         d="M93.92 114.99l5.253-4.302 1.972-8.32-2.885 2.072-1.4 4.294-3.645 3.3s.538 3.124.706 2.957z"
+         id="path181352" />
+    </g>
+    <path
+       d="M60.2 57.344L46.326 68.672"
+       marker-end="url(#I)"
+       class="B I O"
+       id="path181356" />
+    <g
+       class="N Q B"
+       id="g181376">
+      <path
+         d="M44.51 173.213l-46.493-14.427 4.907-7.137 3.345-2.007 5.8-.67L58.562 163.4l-5.8.67-3.345 2.007z"
+         id="path181358" />
+      <g
+         class="K"
+         id="g181364">
+        <path
+           d="M44.51 173.213l4.907-7.137 3.345-2.007 5.8-.67v2.9l-14.05 10.036z"
+           id="path181360" />
+        <path
+           d="M-2.115 158.653l46.627 14.56v3.122l-46.493-14.427z"
+           id="path181362" />
+      </g>
+      <path
+         d="M-25.806 193.898l8.555-7.67 4.427-1.94 28.908-20.78 5.173-1.433 39.966-28.156c9.636-7.338 16.852-12.04 25.214-18.553l9.417 2.797c-9.468 7.007-15.92 10.832-26.647 18.453L29.56 165.072l-5.103 1.133-29.09 20.88 1.25 1.762-9.808 8.1z"
+         class="C"
+         id="path181366" />
+      <g
+         class="K"
+         id="g181372">
+        <path
+           d="M-26.252 187.015l.288 10.305 12.95 4.06-.177-10.785zm21.62-6.28v6.35l29.1-20.88 4.293-.12 67.1-47.92v-8.637L73.448 124.85l-4.242 5.416L37.3 152.603l-5.103 1.133z"
+           id="path181368" />
+        <path
+           d="M-13.19 190.596V201.8l9.808-9.326v-9.976z"
+           id="path181370" />
+      </g>
+      <path
+         d="M-26.252 187.015l8.792-5.68 4.636-3.396 37.604-26.9 5.173-1.433 31.27-22.037 4.36-5.417 19.8-15.424 10.472 2.797-22.405 15.324-4.242 5.416-30.95 22.337-5.103 1.133-37.787 27 1.25 1.762-9.808 8.1z"
+         class="C"
+         id="path181374" />
+    </g>
+    <g
+       transform="matrix(.997318 -.073192 0 1 0 0)"
+       id="g181384">
+      <ellipse
+         ry="1.271"
+         rx="2.25"
+         cy="155.502"
+         cx="27.011"
+         fill-opacity="0"
+         id="ellipse181378" />
+      <rect
+         ry="1.977"
+         y="152.961"
+         x="24.629"
+         height="4.66"
+         width="3.705"
+         id="rect181380" />
+      <ellipse
+         ry=".838"
+         rx="1.106"
+         cy="154.21"
+         cx="26.479"
+         class="N"
+         id="ellipse181382" />
+    </g>
+    <g
+       class="B"
+       id="g181398">
+      <g
+         class="K"
+         id="g181390">
+        <path
+           d="M88.667 89.7l1.676.586-4.693 2.44-1.722-.628zm-4.645 2.728l.386 19.868.886.327-.175-.132.626-19.557z"
+           stroke-width=".8"
+           class="N"
+           id="path181386" />
+        <path
+           d="M77.193 100.253l4.895-3.92-1.175 15.458-4.213 3.927z"
+           transform="matrix(.994581 .546956 0 1.302386 8.878822 -79.73976)"
+           class="T"
+           id="path181388" />
+      </g>
+      <g
+         stroke-width="2"
+         id="g181396">
+        <path
+           d="M9.507 67.626l47.68 13.88m1.9.553l1.825.53m1.58.46l68.037 19.808m1.612.47l1.712.498m1.644.48l41.22 12"
+           class="I"
+           id="path181392" />
+        <path
+           d="M7.815 63.135c.918 0 1.656.98 1.656 2.2V79.49c0 1.22-.74 2.2-1.656 2.2s-1.656-.98-1.656-2.2V65.336c0-1.22.74-2.2 1.656-2.2z"
+           class="C N"
+           id="path181394" />
+      </g>
+    </g>
+    <text
+       y="33.082"
+       x="-11.027"
+       xml:space="preserve"
+       class="J L"
+       id="text181402"><tspan
+         y="33.082"
+         x="-11.027"
+         id="tspan181400">Anhängestift</tspan></text>
+    <text
+       y="54.885"
+       x="57.391"
+       xml:space="preserve"
+       class="J L"
+       id="text181406"><tspan
+         y="54.885"
+         x="57.391"
+         id="tspan181404">Dämpfung</tspan></text>
+    <g
+       class="B"
+       id="g181430">
+      <path
+         d="M40.093 70.055l6.355 1.305-6.763 3.23c-1.64.244-3.653-1.108-4.824 1.124l-10.758 4.1-6.355-1.412L30 73.647c1.488-1.21 3.083-1.242 4.694-1.094z"
+         class="N Q"
+         id="path181408" />
+      <path
+         d="M7.8 37.593v21.803"
+         marker-end="url(#J)"
+         class="I O"
+         id="path181410" />
+      <g
+         class="N"
+         id="g181426">
+        <g
+           class="K R"
+           id="g181422">
+          <ellipse
+             ry="1.399"
+             rx="1.866"
+             cy="136.289"
+             cx="179.062"
+             id="ellipse181412" />
+          <ellipse
+             cx="179.062"
+             cy="134.702"
+             rx="1.866"
+             ry="1.399"
+             id="ellipse181414" />
+          <ellipse
+             ry="1.399"
+             rx="1.866"
+             cy="131.527"
+             cx="179.062"
+             id="ellipse181416" />
+          <ellipse
+             ry="1.399"
+             rx="1.866"
+             cy="133.115"
+             cx="179.062"
+             id="ellipse181418" />
+          <ellipse
+             cx="179.062"
+             cy="131.527"
+             rx="1.866"
+             ry="1.399"
+             id="ellipse181420" />
+        </g>
+        <path
+           d="M179.076 110.04c1.22 0 2.2.98 2.2 2.2v16.33c0 1.22-.98 2.2-2.2 2.2s-2.2-.98-2.2-2.2v-16.33c0-1.22.98-2.2 2.2-2.2z"
+           stroke-width="2"
+           class="C"
+           id="path181424" />
+      </g>
+      <path
+         d="M115.486 73.634v21.803"
+         marker-end="url(#H)"
+         class="I O"
+         id="path181428" />
+    </g>
+    <text
+       xml:space="preserve"
+       x="107.761"
+       y="71.299"
+       class="J L"
+       id="text181434"><tspan
+         x="107.761"
+         y="71.299"
+         id="tspan181432">Saite</tspan></text>
+    <path
+       d="M112.517 147.256v-21.803"
+       marker-end="url(#G)"
+       class="B I O"
+       id="path181436" />
+    <text
+       xml:space="preserve"
+       x="107.676"
+       y="154.692"
+       class="J L"
+       id="text181440"><tspan
+         x="107.676"
+         y="154.692"
+         id="tspan181438">Führungsrechen</tspan></text>
+    <path
+       d="M172.347 73.5v21.803"
+       marker-end="url(#F)"
+       class="B I O"
+       id="path181442" />
+    <text
+       y="70.355"
+       x="165.817"
+       xml:space="preserve"
+       class="J L"
+       id="text181446"><tspan
+         y="70.355"
+         x="165.817"
+         id="tspan181444">Steg</tspan></text>
+    <path
+       d="M179.08 166.744V144.94"
+       marker-end="url(#E)"
+       class="B I O"
+       id="path181448" />
+    <text
+       xml:space="preserve"
+       x="163.546"
+       y="177.653"
+       class="J L"
+       id="text181452"><tspan
+         x="163.546"
+         y="177.653"
+         id="tspan181450">Stimmstift</tspan></text>
+    <text
+       xml:space="preserve"
+       x="18.969"
+       y="114.113"
+       class="J L"
+       id="text181456"><tspan
+         x="18.969"
+         y="114.113"
+         id="tspan181454">Tangente</tspan></text>
+    <path
+       d="M 48.38,112.456 L 81.698295,104.71816"
+       marker-end="url(#D)"
+       class="B I O"
+       id="path181458"
+       sodipodi:nodetypes="cc" />
+    <text
+       y="197.401"
+       x="29.485"
+       xml:space="preserve"
+       class="J L"
+       id="text181462"><tspan
+         y="197.401"
+         x="29.485"
+         id="tspan181460">Taste</tspan></text>
+    <g
+       class="B I O"
+       id="g181468">
+      <path
+         d="M26.652 195.745l-25.72-2.14"
+         marker-end="url(#C)"
+         id="path181464" />
+      <path
+         d="M84.018 175.745l-25.72-2.14"
+         marker-end="url(#B)"
+         id="path181466" />
+    </g>
+    <text
+       xml:space="preserve"
+       x="88.816"
+       y="178.137"
+       class="J L"
+       id="text181472"><tspan
+         x="88.816"
+         y="178.137"
+         id="tspan181470">Waagebalken</tspan></text>
+    <g
+       stroke-dasharray="3, 3"
+       class="I S"
+       id="g181480">
+      <path
+         d="M130.728 69.77L89.542 90.682"
+         id="path181474" />
+      <path
+         d="M190.952 85.64l-56.8-15.33"
+         marker-start="url(#A)"
+         marker-end="url(#K)"
+         id="path181476" />
+      <path
+         d="M178.286 98.368l17.352-10.926"
+         id="path181478" />
+    </g>
+    <text
+       xml:space="preserve"
+       x="130.32"
+       y="64.42"
+       class="J P U"
+       id="text181484"><tspan
+         x="130.32"
+         y="64.42"
+         font-weight="bold"
+         class="V"
+         id="tspan181482">a</tspan></text>
+    <text
+       xml:space="preserve"
+       x="197.013"
+       y="82.774"
+       class="J P U"
+       id="text181488"><tspan
+         x="197.013"
+         y="82.774"
+         font-weight="bold"
+         class="V"
+         id="tspan181486">b</tspan></text>
+  </g>
+</svg>

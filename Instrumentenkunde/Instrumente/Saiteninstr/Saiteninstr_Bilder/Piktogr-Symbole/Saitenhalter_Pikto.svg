@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.972507mm"
+   height="63.557335mm"
+   viewBox="0 0 24.972507 63.557335"
+   version="1.1"
+   id="svg2548"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="Saitenhalter_Pikto.svg">
+  <defs
+     id="defs2542" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-527.09355"
+     inkscape:cy="202.9655"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1248"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2545">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-245.2935,-94.465379)">
+    <g
+       id="g2524"
+       transform="translate(-160.32208,-243.81469)">
+      <path
+         style="fill:#ff00ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 405.72784,338.41236 H 429.72784 C 430.48191,340.99514 428.71626,344.33148 427.70875,346.41787 C 421.56565,359.13918 420.94935,373.15555 422.72784,391.47058 C 423.79101,395.10848 424.01757,398.24441 422.72784,400.47058 C 420.09088,401.4455 417.64559,402.68876 412.72784,400.47058 C 411.939,399.04825 411.64083,396.6446 412.72784,391.47058 C 414.25784,372.87092 412.98325,358.48989 406.93395,346.33283 C 406.10411,344.66513 404.32335,340.88611 405.72784,338.41236 Z"
+         id="path2502"
+         sodipodi:nodetypes="ccsccccsc"
+         transform="translate(0.54332281)" />
+      <circle
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.234153;stroke-linejoin:round;stop-color:#000000"
+         id="path2504"
+         cx="410.59723"
+         cy="342.67783"
+         r="2.2089999" />
+      <circle
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.234153;stroke-linejoin:round;stop-color:#000000"
+         id="circle2506"
+         cx="415.63055"
+         cy="342.67783"
+         r="2.2089999" />
+      <circle
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.234153;stroke-linejoin:round;stop-color:#000000"
+         id="circle2508"
+         cx="420.66388"
+         cy="342.67783"
+         r="2.2089999" />
+      <circle
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.234153;stroke-linejoin:round;stop-color:#000000"
+         id="circle2510"
+         cx="425.69724"
+         cy="342.67783"
+         r="2.2089999" />
+    </g>
+  </g>
+</svg>

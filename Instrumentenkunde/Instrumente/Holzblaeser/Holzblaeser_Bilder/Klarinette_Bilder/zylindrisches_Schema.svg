@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120.34534mm"
+   height="70.729179mm"
+   viewBox="0 0 120.34534 70.729179"
+   version="1.1"
+   id="svg6"
+   inkscape:version="1.1-dev (0486c1a, 2020-10-10)"
+   sodipodi:docname="Cylindrical_Dogcakes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10733">
+      .sichtbar {
+        opacity: 1
+      }
+      .unsichtbar {
+        opacity: 0
+      }
+      .einblenden {
+        opacity: 1;
+        transition: all 0.2s ease-in-out
+      }
+      .ausblenden {
+        opacity: 0;
+        transition: all 0.2s ease-in-out
+      }
+      .Bfrei {
+      fill: url(#linearGradient10129);
+      cursor: default
+      }
+      .Bgedrueckt {
+      fill: #333344;
+      cursor: default
+      }
+  </style>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect1082"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect1071"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect2045"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect2045"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1119">
+      <stop
+         style="stop-color:#00fff0;stop-opacity:1;"
+         offset="0"
+         id="stop1115" />
+      <stop
+         style="stop-color:#12fff1;stop-opacity:0.6062718"
+         offset="1"
+         id="stop1117" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect951"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect937"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect878"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect859"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath864">
+      <rect
+         style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         id="rect866"
+         width="12.083567"
+         height="0.94175625"
+         x="-0.030365124"
+         y="21.339853"
+         rx="0.10944775"
+         ry="0.038853232"
+         d="M 0.07908262,21.339853 H 11.943754 C 12.004388,21.339853 12.053202,21.357182 12.053202,21.378707 V 22.242756 C 12.053202,22.264281 12.004388,22.28161 11.943754,22.28161 H 0.07908262 C 0.01844857,22.28161 -0.03036512,22.264281 -0.03036512,22.242756 V 21.378707 C -0.03036512,21.357182 0.01844857,21.339853 0.07908262,21.339853 Z" />
+      <path
+         id="lpe_path-effect868"
+         style="display:block;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         class="powerclip"
+         d="M -4.9999884,13.679296 H 125.60323 V 29.950552 H -4.9999884 Z M 120.2595,18.515894 C 120.19467,18.515894 120.14249,18.534627 120.14249,18.557896 V 25.163769 C 120.14249,25.187039 120.19467,25.205771 120.2595,25.205771 H 122.69939 C 122.76422,25.205771 122.8164,25.187039 122.8164,25.163769 V 18.557896 C 122.8164,18.534627 122.76422,18.515894 122.69939,18.515894 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect878">
+      <rect
+         style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         id="rect880"
+         width="12.083567"
+         height="0.94175625"
+         x="-0.030365124"
+         y="21.339853"
+         rx="0.10944775"
+         ry="0.038853232"
+         d="M 0.07908262,21.339853 H 11.943754 C 12.004388,21.339853 12.053202,21.357182 12.053202,21.378707 V 22.242756 C 12.053202,22.264281 12.004388,22.28161 11.943754,22.28161 H 0.07908262 C 0.01844857,22.28161 -0.03036512,22.264281 -0.03036512,22.242756 V 21.378707 C -0.03036512,21.357182 0.01844857,21.339853 0.07908262,21.339853 Z" />
+      <path
+         id="lpe_path-effect878"
+         style="display:block;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         class="powerclip"
+         d="M -5,13.679308 H 125.1356 V 29.950588 H -5 Z M 0.07908262,21.339853 C 0.01844857,21.339853 -0.03036512,21.357182 -0.03036512,21.378707 V 22.242756 C -0.03036512,22.264281 0.01844857,22.28161 0.07908262,22.28161 H 11.943754 C 12.004388,22.28161 12.053202,22.264281 12.053202,22.242756 V 21.378707 C 12.053202,21.357182 12.004388,21.339853 11.943754,21.339853 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath947">
+      <rect
+         style="display:block;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+         id="rect949"
+         width="2.1153224"
+         height="11.445006"
+         x="120.13892"
+         y="-5.9897017"
+         rx="0.11701224"
+         ry="0.042002074" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1127"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,10.316163)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1141"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,16.435512)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1145"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,24.774106)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10242">
+      <stop
+         style="stop-color:#424259;stop-opacity:1"
+         offset="0"
+         id="stop10238" />
+      <stop
+         style="stop-color:#6c7097;stop-opacity:0.78431374"
+         offset="1"
+         id="stop10240" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient10129"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10248">
+      <stop
+         style="stop-color:#4a5261;stop-opacity:1"
+         offset="0"
+         id="stop10244" />
+      <stop
+         style="stop-color:#556072;stop-opacity:1"
+         offset="1"
+         id="stop10246" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10242"
+       id="linearGradient10153"
+       x1="-172.66983"
+       y1="146.25584"
+       x2="-170.19304"
+       y2="120.53823"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1951"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,17.195334)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient1962"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-86.299514)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10242"
+       id="linearGradient1964"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-86.299514)"
+       x1="-172.66983"
+       y1="146.25584"
+       x2="-170.19304"
+       y2="120.53823" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient1968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-74.785922)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1972"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,10.316163)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <filter
+       id="mask-powermask-path-effect2045_inverse"
+       inkscape:label="filtermask-powermask-path-effect2045"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect2045_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect2045_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient982"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10242"
+       id="linearGradient984"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-74.785922)"
+       x1="-172.66983"
+       y1="146.25584"
+       x2="-170.19304"
+       y2="120.53823" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1078">
+      <rect
+         style="display:none;opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.133283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1080"
+         width="2.6437201"
+         height="9.772131"
+         x="120.02042"
+         y="-4.8697667" />
+      <path
+         id="lpe_path-effect1082"
+         style="display:block;opacity:1;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.133283;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M 101.72057,-9.4159265 H 125.29204 V 9.4504914 H 101.72057 Z M 120.02042,-4.8697667 V 4.9023643 H 122.66414 V -4.8697667 Z" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient1375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient1377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.91989628"
+     inkscape:cx="222.30767"
+     inkscape:cy="22.285121"
+     inkscape:document-units="mm"
+     inkscape:current-layer="Trichter"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1256"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2299"
+       originx="-0.35527745"
+       originy="-0.79695369" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.35196769,4.3877423)">
+    <g
+       id="Trichter"
+       class="unsichtbar"
+       transform="matrix(1.5393283,0,0,0.99364201,-64.471628,1.0772971e-4)"
+       clip-path="url(#clipPath1078)"
+       inkscape:path-effect="#path-effect1082">
+      <path
+         style="fill:#5599ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 106.73032,-1.7564956 L 120.15975,-1.7548127 V -4.2312295 C 115.77234,-2.7397862 111.11773,-2.0806657 106.73032,-1.7564956 Z"
+         id="path891"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="M 106.73032,-1.7564956 L 120.15975,-1.7548127 V -4.2312295 C 115.77234,-2.7397862 111.11773,-2.0806657 106.73032,-1.7564956 Z" />
+      <path
+         style="fill:#5599ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 106.73032,1.7903836 L 120.15975,1.7887007 V 4.2657944 C 115.77234,2.7743511 111.11773,2.1145537 106.73032,1.7903836 Z"
+         id="path893"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="M 106.73032,1.7903836 L 120.15975,1.7887007 V 4.2657944 C 115.77234,2.7743511 111.11773,2.1145537 106.73032,1.7903836 Z" />
+    </g>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+       id="GrundformRect"
+       width="5.4606543"
+       height="5.1394391"
+       x="2.3963935"
+       y="13.77048"
+       rx="0.11701224"
+       ry="0.042002074" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583"
+       x="9.9698057"
+       y="17.153351"
+       id="GrundformText"><tspan
+         sodipodi:role="line"
+         id="tspan957"
+         style="fill:#000000;stroke-width:0.264583"
+         x="9.9698057"
+         y="17.153351">Grundform der zylindrischen Bohrung</tspan></text>
+    <g
+       id="ZylinderButton"
+       transform="translate(-0.78690604)">
+      <rect
+         style="fill:url(#linearGradient1377);fill-opacity:1;stroke:url(#linearGradient10153);stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="ZylinderSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="22.145645"
+         rx="1"
+         ry="1" />
+      <g
+         id="ZylinderAbschnitt"
+         style="fill:#cccccc"
+         transform="translate(0,2.1166667)">
+        <rect
+           id="ZylinderRect"
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="21.801214"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="25.184084"
+           id="ZylinderText"><tspan
+             sodipodi:role="line"
+             id="tspan963"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="25.184084">zylindrischer Abschnitt der tatsächlichen Bohrung</tspan></text>
+      </g>
+    </g>
+    <g
+       id="MundstueckButton"
+       transform="translate(-0.78690604)">
+      <rect
+         style="fill:url(#linearGradient10129);fill-opacity:1;stroke:url(#linearGradient1964);stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="MundstueckSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="34.198563"
+         rx="1"
+         ry="1" />
+      <g
+         id="MundstueckAbschnitt"
+         transform="translate(0,5.8208336)"
+         style="fill:#cccccc">
+        <rect
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="MundstueckRect"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="30.03723"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="33.420101"
+           id="MundstueckText"><tspan
+             sodipodi:role="line"
+             id="tspan971"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="33.420101">Mundstück (Innenbohrung in verschiedenen Formen)</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+       id="Zylinder"
+       class="sichtbar"
+       width="119.94008"
+       height="3.8294911"
+       x="0.35196769"
+       y="-1.9009826" />
+    <g
+       id="BirnenButton"
+       transform="translate(-0.78690604)">
+      <rect
+         style="fill:url(#linearGradient982);fill-opacity:1;stroke:url(#linearGradient984);stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="BirnenSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="45.712158"
+         rx="1"
+         ry="1" />
+      <g
+         id="BirnenAbschnitt"
+         transform="translate(0,8.9958338)"
+         style="fill:#cccccc">
+        <rect
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="BirnenRect"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="38.375824"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="41.758698"
+           id="BirnenText"><tspan
+             sodipodi:role="line"
+             id="tspan974"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="41.758698">Birne (auch »Faß« genannt)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="TrichterButton"
+       transform="translate(-0.78690604,12.170835)">
+      <rect
+         style="fill:url(#linearGradient1375);fill-opacity:1;stroke:url(#linearGradient1970);stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="TrichterSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="45.712158"
+         rx="1"
+         ry="1" />
+      <g
+         id="TrichterAbschnitt"
+         transform="translate(0,8.9958338)"
+         style="fill:#cccccc">
+        <rect
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="TrichterRect"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="38.375824"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="41.758698"
+           id="TrichterText"><tspan
+             sodipodi:role="line"
+             id="tspan977"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="41.758698">Ausweitung Schalltrichter</tspan></text>
+      </g>
+    </g>
+    <path
+       id="Mundstueck"
+       class="unsichtbar"
+       style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.707673;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0.4426918,-1.343697 L 13.019945,-1.650697 V 1.678303 L 0.4426918,1.370303 Z"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.656872;stroke-linecap:round;stroke-linejoin:round"
+       id="Zylinder_ohne_Mundstueck"
+       width="107.27251"
+       height="3.829"
+       x="13.019536"
+       y="-1.900697" />
+    <g
+       id="Roehre"
+       class="unsichtbar">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.687872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1047"
+         width="96.751015"
+         height="3.829"
+         x="23.523577"
+         y="-1.900697"
+         clip-path="none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.262488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 23.523577,-1.768197 H 120.27458"
+         id="path1075" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.262488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 23.523577,1.797059 H 120.27458"
+         id="path1086" />
+    </g>
+    <path
+       id="Birne"
+       class="unsichtbar"
+       style="fill:#ffccff;fill-opacity:1;stroke:#ff99ff;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 13.02269,-1.6512506 C 16.522357,-2.1520794 20.022023,-2.2900721 23.52169,-1.8907126 V 1.930303 C 20.022084,2.2021281 16.522479,2.1383698 13.022873,1.6894956 Z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <script
+     type="text/javascript"
+     id="script2510"><![CDATA[
+        
+        var ZylinderCount = 0;
+        var BirnenCount = 0;
+        var MundstueckCount = 0;
+        var TrichterCount = 0;
+
+        var ZylinderAbschnitt = document.getElementById("ZylinderAbschnitt");
+        var ZylinderRect = document.getElementById("ZylinderRect");
+        var ZylinderText = document.getElementById("ZylinderText");
+
+        var BirnenAbschnitt = document.getElementById("BirnenAbschnitt");
+        var BirnenRect = document.getElementById("BirnenRect");
+        var BirnenText = document.getElementById("BirnenText");
+        
+        var MundstueckAbschnitt = document.getElementById("MundstueckAbschnitt");
+        var MundstueckRect = document.getElementById("MundstueckRect");
+        var MundstueckText = document.getElementById("MundstueckText");
+        
+        var TrichterAbschnitt = document.getElementById("TrichterAbschnitt");
+        var TrichterRect = document.getElementById("TrichterRect");
+        var TrichterText = document.getElementById("TrichterText");
+        
+        var ZylinderButton = document.getElementById("ZylinderButton");
+        var BirnenButton = document.getElementById("BirnenButton");
+        var MundstueckButton = document.getElementById("MundstueckButton");
+        var TrichterButton = document.getElementById("TrichterButton");
+        
+        var ZylinderSchalter = document.getElementById("ZylinderSchalter");
+        var BirnenSchalter = document.getElementById("BirnenSchalter");
+        var MundstueckSchalter = document.getElementById("MundstueckSchalter");
+        var TrichterSchalter = document.getElementById("TrichterSchalter");
+        
+        var Zylinder = document.getElementById("Zylinder");
+        var Zylinder_ohne_Mundstueck = document.getElementById("Zylinder_ohne_Mundstueck");
+
+        var Roehre = document.getElementById("Roehre");
+        
+        var Birne = document.getElementById("Birne")
+        
+        var Mundstueck = document.getElementById("Mundstueck");
+
+        var Trichter = document.getElementById("Trichter");
+
+        function addEventListeners() {
+
+            ZylinderButton.addEventListener('mousedown', Zylinderdruck);
+            ZylinderButton.addEventListener('mouseup', Zylinderlos);
+            ZylinderButton.addEventListener('mouseout', Zylinderfort);
+
+            BirnenButton.addEventListener('mousedown', Birnendruck);
+            BirnenButton.addEventListener('mouseup', Birnenlos);
+            BirnenButton.addEventListener('mouseout', Birnenfort);
+
+            MundstueckButton.addEventListener('mousedown', Mundstueckdruck);
+            MundstueckButton.addEventListener('mouseup', Mundstuecklos);
+            MundstueckButton.addEventListener('mouseout', Mundstueckfort);
+
+            TrichterButton.addEventListener('mousedown', Trichterdruck);
+            TrichterButton.addEventListener('mouseup', Trichterlos);
+            TrichterButton.addEventListener('mouseout', Trichterfort);
+        }
+       
+        addEventListeners()
+        
+        function Zylinderdruck() {
+            ZylinderSchalter.classList.remove("Bfrei");
+            ZylinderSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Zylinderlos() {
+            ZylinderSchalter.classList.remove("Bgedrueckt");
+            ZylinderSchalter.classList.add("Bfrei");
+            if (ZylinderCount == 0) {
+            ZylinderRect.style.fill = "#ffffff";
+            ZylinderText.style.fill = "#ffffff";
+            Roehre.classList.remove("unsichtbar");
+            Roehre.classList.add("sichtbar");
+            ZylinderCount = 1;
+            }
+            else {
+            ZylinderRect.style.fill = "#99999a";
+            ZylinderText.style.fill = "#99999a";
+            Roehre.classList.remove("sichtbar");
+            Roehre.classList.add("unsichtbar");
+            ZylinderCount = 0;
+            }
+        }
+        
+        function Zylinderfort() {
+            ZylinderSchalter.classList.remove("Bgedrueckt");
+            ZylinderSchalter.classList.add("Bfrei");
+            
+        }
+        function Birnendruck() {
+            BirnenSchalter.classList.remove("Bfrei");
+            BirnenSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Birnenlos() {
+            BirnenSchalter.classList.remove("Bgedrueckt");
+            BirnenSchalter.classList.add("Bfrei");
+            if (BirnenCount == 0) {
+            BirnenRect.style.fill = "#eebbff";
+            BirnenText.style.fill = "#eebbff";
+            Birne.classList.remove("unsichtbar");
+            Birne.classList.add("sichtbar");
+            BirnenCount = 1;
+            }
+            else {
+            BirnenRect.style.fill = "#99999a";
+            BirnenText.style.fill = "#99999a";
+            Birne.classList.remove("sichtbar");
+            Birne.classList.add("unsichtbar");
+            BirnenCount = 0;
+            }
+        }
+        
+        function Birnenfort() {
+            BirnenSchalter.classList.remove("Bgedrueckt");
+            BirnenSchalter.classList.add("Bfrei");
+            
+        }
+        
+        function Mundstueckdruck() {
+            MundstueckSchalter.classList.remove("Bfrei");
+            MundstueckSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Mundstuecklos() {
+            MundstueckSchalter.classList.remove("Bgedrueckt");
+            MundstueckSchalter.classList.add("Bfrei");
+            if (MundstueckCount == 0) {
+            MundstueckRect.style.fill = "#ff8080";
+            MundstueckText.style.fill = "#ff8080";
+            Mundstueck.classList.remove("unsichtbar");
+            Mundstueck.classList.add("sichtbar");
+            Zylinder.classList.remove("sichtbar");
+            Zylinder.classList.add("unsichtbar");
+            MundstueckCount = 1;
+            }
+            else {
+            MundstueckRect.style.fill = "#99999a";
+            MundstueckText.style.fill = "#99999a";
+            Mundstueck.classList.remove("sichtbar");
+            Mundstueck.classList.add("unsichtbar");
+            Zylinder.classList.remove("unsichtbar");
+            Zylinder.classList.add("sichtbar");
+            MundstueckCount = 0;
+            }
+        }
+        
+        function Mundstueckfort() {
+            MundstueckSchalter.classList.remove("Bgedrueckt");
+            MundstueckSchalter.classList.add("Bfrei");
+            
+        }
+        
+        
+        function Trichterdruck() {
+            TrichterSchalter.classList.remove("Bfrei");
+            TrichterSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Trichterlos() {
+            TrichterSchalter.classList.remove("Bgedrueckt");
+            TrichterSchalter.classList.add("Bfrei");
+            if (TrichterCount == 0) {
+            TrichterRect.style.fill = "#89bbff";
+            TrichterText.style.fill = "#89bbff";
+            Trichter.classList.remove("unsichtbar");
+            Trichter.classList.add("sichtbar");
+            TrichterCount = 1;
+            }
+            else {
+            TrichterRect.style.fill = "#99999a";
+            TrichterText.style.fill = "#99999a";
+            Trichter.classList.remove("sichtbar");
+            Trichter.classList.add("unsichtbar");
+            TrichterCount = 0;
+            }
+        }
+        
+        function Trichterfort() {
+            TrichterSchalter.classList.remove("Bgedrueckt");
+            TrichterSchalter.classList.add("Bfrei");
+            
+        }
+
+    ]]></script>
+</svg>

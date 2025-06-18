@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="41.274998mm"
+   height="50.162884mm"
+   viewBox="0 0 41.274998 50.162884"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="Saitenlänge.svg">
+  <defs
+     id="defs835">
+    <rect
+       id="rect885"
+       height="15.724837"
+       width="7.4996983"
+       y="25.912325"
+       x="1.8244728" />
+    <style
+       id="style833">
+           @import url('https://fontlibrary.org/face/libertinus-sans');
+           @import url('https://fontlibrary.org/face/libertinus-math')
+       </style>
+  </defs>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1521894"
+     inkscape:cx="92.1812"
+     inkscape:cy="120.9866"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1248"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.92147e-8,3.822325)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round"
+       id="path1402"
+       cx="0.79374999"
+       cy="0.79374999"
+       r="0.79374999" />
+    <circle
+       cy="0.79374999"
+       cx="40.481247"
+       id="circle1404"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round"
+       r="0.79374999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.3229167,0.70038116 H 39.952083"
+       id="path1406"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="0.79374999"
+       cy="10.401652"
+       cx="0.79374999"
+       id="circle1419"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round" />
+    <circle
+       r="0.79374999"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1421"
+       cx="40.481247"
+       cy="10.401652" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1423"
+       d="M 1.3229167,10.308285 33.186642,6.4898696 39.952083,10.308285"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.495286,11.063113 h 1.382715 L 33.186642,6.4898696 Z"
+       id="path1425"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.3229167,10.308285 33.186642,6.4898696 39.952083,10.308285"
+       id="path1427"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1429"
+       cx="0.79374999"
+       cy="20.984985"
+       r="0.79374999" />
+    <circle
+       cy="20.984985"
+       cx="40.481247"
+       id="circle1431"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round"
+       r="0.79374999" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1435"
+       d="m 32.495286,21.646453 h 1.382715 l -0.691359,-4.573246 z"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1437"
+       d="M 1.3229167,20.891625 8.3157942,17.073207 H 33.186642 l 6.765441,3.818418"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.6244385,21.646453 H 9.0071526 L 8.3157942,17.073207 Z"
+       id="path1439"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g1478"
+       transform="translate(-4.5290831,3.7041668)">
+      <text
+         id="text1443"
+         y="28.992754"
+         x="12.034175"
+         style="font-size:1.76389px;line-height:1.25;font-family:'Libertinus sans';-inkscape-font-specification:'Libertinus sans';stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.264583"
+           y="28.992754"
+           x="12.034175"
+           id="tspan1441"
+           sodipodi:role="line">Befestigung (Stift / Wirbel / Saitenhalter o. Ä.) </tspan></text>
+      <circle
+         cy="28.399029"
+         cx="6.9103332"
+         id="circle1445"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.343109;stroke-linecap:round;stroke-linejoin:round"
+         r="0.79374999" />
+      <text
+         style="line-height:1.25;font-family:'Libertinus sans';font-size:10.58333333000000032px;-inkscape-font-specification:'Libertinus sans';white-space:pre;shape-inside:url(#rect885);"
+         id="text883"
+         xml:space="preserve" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1447"
+       d="M 1.5875001,37.979958 H 5.0895832"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;line-height:1.25;font-family:'Libertinus sans';-inkscape-font-specification:'Libertinus sans';stroke-width:0.264583"
+       x="7.5362597"
+       y="38.551456"
+       id="text1451"><tspan
+         sodipodi:role="line"
+         id="tspan1449"
+         x="7.5362597"
+         y="38.551456"
+         style="stroke-width:0.264583">Saite</tspan></text>
+    <g
+       transform="translate(0.27083327)"
+       id="g901">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1453"
+         d="M 0.63836023,45.341329 H 1.6200878 L 1.1292229,42.094325 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.187854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.187854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 4.3425271,45.341329 H 5.3242547 L 4.8333898,42.094325 Z"
+         id="path1455"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1457"
+         d="M 3.7428015,41.209853 2.3503149,46.305688"
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       id="text1461"
+       y="44.164349"
+       x="7.5362597"
+       style="font-size:1.76389px;line-height:1.25;font-family:'Libertinus sans';-inkscape-font-specification:'Libertinus sans';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="44.164349"
+         x="7.5362597"
+         id="tspan1459"
+         sodipodi:role="line"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0">Steg / Steg bzw. Sattel</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.792, 0.792;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 4.3203628,27.947203 H 39.847578"
+       id="path881"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583"
+       x="-0.020542784"
+       y="-1.6061751"
+       id="text1500"><tspan
+         sodipodi:role="line"
+         id="tspan1498"
+         x="-0.020542784"
+         y="-1.6061751"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583">a</tspan></text>
+    <text
+       id="text1504"
+       y="-1.6061751"
+       x="39.555931"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583"
+         y="-1.6061751"
+         x="39.555931"
+         id="tspan1502"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       id="text1508"
+       y="8.0018253"
+       x="-0.020542784"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583"
+         y="8.0018253"
+         x="-0.020542784"
+         id="tspan1506"
+         sodipodi:role="line">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17531px;line-height:1.25;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264609"
+       x="32.258121"
+       y="5.7067094"
+       id="text1512"
+       transform="scale(1.0000981,0.99990195)"><tspan
+         sodipodi:role="line"
+         id="tspan1510"
+         x="32.258121"
+         y="5.7067094"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264609">b</tspan></text>
+    <text
+       transform="scale(1.0000983,0.99990172)"
+       id="text1516"
+       y="16.290751"
+       x="32.258114"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17531px;line-height:1.25;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264609"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264609"
+         y="16.290751"
+         x="32.258114"
+         id="tspan1514"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583"
+       x="7.501503"
+       y="15.466825"
+       id="text1520"><tspan
+         sodipodi:role="line"
+         id="tspan1518"
+         x="7.501503"
+         y="15.466825"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Libertinus Math';-inkscape-font-specification:'Libertinus Math';stroke-width:0.264583">a</tspan></text>
+  </g>
+</svg>

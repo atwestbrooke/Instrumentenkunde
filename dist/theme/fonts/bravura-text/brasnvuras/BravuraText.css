@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'BravuraText';
+    src: url('BravuraText.eot');
+    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('sBravuraText.woff') format('woff'),
+         url('BravuraText.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BravuraText';
+    src: url('BravuraText.eot');
+    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('sBravuraText.woff') format('woff'),
+         url('BravuraText.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'BravuraText';
+    src: url('BravuraText.eot');
+    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('sBravuraText.woff') format('woff'),
+         url('BravuraText.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BravuraText';
+    src: url('BravuraText.eot');
+    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('sBravuraText.woff') format('woff'),
+         url('BravuraText.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}

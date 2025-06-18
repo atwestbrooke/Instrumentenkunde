@@ -1,0 +1,47 @@
+#playbutton {
+    height:50px;
+    width: 50px;
+    border: none;
+    float: left;
+}
+
+.play {
+    background: url('Play2.svg');
+}
+
+.pause {
+    background: url('Pause2.svg');
+}
+        
+.play,
+.pause {
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#timeline{
+    width: 400px;
+    height: 16px;
+    Background-image: url('Fortschritt.svg');
+    margin-top: 17px;
+    float: left;
+    border-radius: 8px;
+}
+    
+#playhead{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-top: 2px;
+    margin-left: 2px;
+    background-image: linear-gradient(to top right, rgba(217, 217, 217, 0.46), rgba(235, 235, 235, 0.6))
+}
+        
+#audioplayer{
+    width:465px;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    Background-image: url('playerbg.svg');
+} 

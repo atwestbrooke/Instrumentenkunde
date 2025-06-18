@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120.79411mm"
+   height="59.855297mm"
+   viewBox="0 0 120.7941 59.855297"
+   version="1.1"
+   id="svg6"
+   inkscape:version="1.1-dev (0486c1a, 2020-10-10)"
+   sodipodi:docname="konisches_Schema.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10733">
+      .sichtbar {
+        opacity: 1
+      }
+      .unsichtbar {
+        opacity: 0
+      }
+      .einblenden {
+        opacity: 1;
+        transition: all 0.2s ease-in-out
+      }
+      .ausblenden {
+        opacity: 0;
+        transition: all 0.2s ease-in-out
+      }
+      .Bfrei {
+      fill: url(#linearGradient10129);
+      cursor: default
+      }
+      .Bgedrueckt {
+      fill: #333344;
+      cursor: default
+      }
+  </style>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect2045"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect2045"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1119">
+      <stop
+         style="stop-color:#00fff0;stop-opacity:1;"
+         offset="0"
+         id="stop1115" />
+      <stop
+         style="stop-color:#12fff1;stop-opacity:0.6062718"
+         offset="1"
+         id="stop1117" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect951"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect937"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect878"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect868"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect859"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Füllregel Gerade-Ungerade im &lt;b&gt;Füllung und Kontur&lt;/b&gt;-Dialog verwenden, wenn das Anwenden des Ausschnitts mit nachfolgendem Umwandeln in Pfade kein Ergebnis bringt" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath864">
+      <rect
+         style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         id="rect866"
+         width="12.083567"
+         height="0.94175625"
+         x="-0.030365124"
+         y="21.339853"
+         rx="0.10944775"
+         ry="0.038853232"
+         d="M 0.07908262,21.339853 H 11.943754 C 12.004388,21.339853 12.053202,21.357182 12.053202,21.378707 V 22.242756 C 12.053202,22.264281 12.004388,22.28161 11.943754,22.28161 H 0.07908262 C 0.01844857,22.28161 -0.03036512,22.264281 -0.03036512,22.242756 V 21.378707 C -0.03036512,21.357182 0.01844857,21.339853 0.07908262,21.339853 Z" />
+      <path
+         id="lpe_path-effect868"
+         style="display:block;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         class="powerclip"
+         d="M -4.9999884,13.679296 H 125.60323 V 29.950552 H -4.9999884 Z M 120.2595,18.515894 C 120.19467,18.515894 120.14249,18.534627 120.14249,18.557896 V 25.163769 C 120.14249,25.187039 120.19467,25.205771 120.2595,25.205771 H 122.69939 C 122.76422,25.205771 122.8164,25.187039 122.8164,25.163769 V 18.557896 C 122.8164,18.534627 122.76422,18.515894 122.69939,18.515894 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect878">
+      <rect
+         style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         id="rect880"
+         width="12.083567"
+         height="0.94175625"
+         x="-0.030365124"
+         y="21.339853"
+         rx="0.10944775"
+         ry="0.038853232"
+         d="M 0.07908262,21.339853 H 11.943754 C 12.004388,21.339853 12.053202,21.357182 12.053202,21.378707 V 22.242756 C 12.053202,22.264281 12.004388,22.28161 11.943754,22.28161 H 0.07908262 C 0.01844857,22.28161 -0.03036512,22.264281 -0.03036512,22.242756 V 21.378707 C -0.03036512,21.357182 0.01844857,21.339853 0.07908262,21.339853 Z" />
+      <path
+         id="lpe_path-effect878"
+         style="display:block;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0456472;stroke-linecap:round;stroke-linejoin:round"
+         class="powerclip"
+         d="M -5,13.679308 H 125.1356 V 29.950588 H -5 Z M 0.07908262,21.339853 C 0.01844857,21.339853 -0.03036512,21.357182 -0.03036512,21.378707 V 22.242756 C -0.03036512,22.264281 0.01844857,22.28161 0.07908262,22.28161 H 11.943754 C 12.004388,22.28161 12.053202,22.264281 12.053202,22.242756 V 21.378707 C 12.053202,21.357182 12.004388,21.339853 11.943754,21.339853 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath933">
+      <rect
+         style="display:none;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.746485;stroke-linecap:round;stroke-linejoin:round"
+         id="rect935"
+         width="2.6739166"
+         height="6.6898775"
+         x="120.14249"
+         y="18.515894"
+         rx="0.11701224"
+         ry="0.042002071"
+         d="M 120.2595,18.515894 H 122.69939 C 122.76422,18.515894 122.8164,18.534627 122.8164,18.557896 V 25.163769 C 122.8164,25.187039 122.76422,25.205771 122.69939,25.205771 H 120.2595 C 120.19467,25.205771 120.14249,25.187039 120.14249,25.163769 V 18.557896 C 120.14249,18.534627 120.19467,18.515894 120.2595,18.515894 Z" />
+      <path
+         id="lpe_path-effect937"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.746485;stroke-linecap:round;stroke-linejoin:round"
+         class="powerclip"
+         d="M -4.9999884,13.679296 H 125.60323 V 29.950552 H -4.9999884 Z M 120.2595,18.515894 C 120.19467,18.515894 120.14249,18.534627 120.14249,18.557896 V 25.163769 C 120.14249,25.187039 120.19467,25.205771 120.2595,25.205771 H 122.69939 C 122.76422,25.205771 122.8164,25.187039 122.8164,25.163769 V 18.557896 C 122.8164,18.534627 122.76422,18.515894 122.69939,18.515894 Z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath947">
+      <rect
+         style="display:none;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+         id="rect949"
+         width="2.1153224"
+         height="11.445006"
+         x="120.13892"
+         y="-5.9897017"
+         rx="0.11701224"
+         ry="0.042002074" />
+      <path
+         id="lpe_path-effect951"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+         class="powerclip"
+         d="M 101.82616,-10.184697 H 125.39763 V 10.184971 H 101.82616 Z M 120.25594,-5.9897017 C 120.19111,-5.9897017 120.13892,-5.9709688 120.13892,-5.9476997 V 5.4133025 C 120.13892,5.4365717 120.19111,5.4553046 120.25594,5.4553046 H 122.13723 C 122.20206,5.4553046 122.25425,5.4365717 122.25425,5.4133025 V -5.9476997 C 122.25425,-5.9709688 122.20206,-5.9897017 122.13723,-5.9897017 Z" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1127"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,10.316163)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1141"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,16.435512)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1145"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,24.774106)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10242">
+      <stop
+         style="stop-color:#424259;stop-opacity:1"
+         offset="0"
+         id="stop10238" />
+      <stop
+         style="stop-color:#6c7097;stop-opacity:0.78431374"
+         offset="1"
+         id="stop10240" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient10129"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10248">
+      <stop
+         style="stop-color:#4a5261;stop-opacity:1"
+         offset="0"
+         id="stop10244" />
+      <stop
+         style="stop-color:#556072;stop-opacity:1"
+         offset="1"
+         id="stop10246" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10242"
+       id="linearGradient10153"
+       x1="-172.66983"
+       y1="146.25584"
+       x2="-170.19304"
+       y2="120.53823"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-98.352432)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1951"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,17.195334)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient1962"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-86.299514)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10242"
+       id="linearGradient1964"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-86.299514)"
+       x1="-172.66983"
+       y1="146.25584"
+       x2="-170.19304"
+       y2="120.53823" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10248"
+       id="linearGradient1968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-74.785922)"
+       x1="-179.39838"
+       y1="138.88078"
+       x2="-133.11707"
+       y2="130.16429" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10242"
+       id="linearGradient1970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(201.556,-74.785922)"
+       x1="-172.66983"
+       y1="146.25584"
+       x2="-170.19304"
+       y2="120.53823" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1119"
+       id="linearGradient1972"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.8879396,10.316163)"
+       x1="106.57478"
+       y1="16.877794"
+       x2="2.8478186"
+       y2="14.052366" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect2045">
+      <path
+         id="mask-powermask-path-effect2045_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M -0.99998839,17.679296 H 121.60323 V 25.950552 H -0.99998839 Z" />
+      <g
+         id="g2043"
+         transform="translate(0.00331,21.814948)"
+         style="">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.696864"
+           id="rect2039"
+           width="12.064375"
+           height="0.87809551"
+           x="-0.014822591"
+           y="-0.4438743"
+           d="M -0.01482259,-0.4438743 H 12.049552 V 0.43422121 H -0.01482259 Z" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.696864"
+           id="rect2041"
+           width="1.388676"
+           height="7.9352922"
+           x="120.13081"
+           y="-3.7631032"
+           d="M 120.13081,-3.7631032 H 121.51949 V 4.172189 H 120.13081 Z" />
+      </g>
+    </mask>
+    <filter
+       id="mask-powermask-path-effect2045_inverse"
+       inkscape:label="filtermask-powermask-path-effect2045"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect2045_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect2045_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2287212"
+     inkscape:cx="260.02645"
+     inkscape:cy="145.27299"
+     inkscape:document-units="mm"
+     inkscape:current-layer="KonusAbschnitt"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1256"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2299" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.00331,5.184697)">
+    <path
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,0 L 120,-3 V 3 Z"
+       id="Konus"
+       class="sichtbar"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.00330625,21.814948 L 120.00331,18.814948 V 24.814948 Z"
+       id="Konus_ohne_Spitze"
+       sodipodi:nodetypes="cccc"
+       clip-path="url(#clipath_lpe_path-effect878)"
+       transform="translate(-0.00331,-21.814948)"
+       inkscape:original-d="M 0.00330625,21.814948 L 120.00331,18.814948 V 24.814948 Z"
+       inkscape:path-effect="#path-effect878" />
+    <g
+       id="Trichter"
+       class="unsichtbar"
+       clip-path="url(#clipPath947)"
+       inkscape:path-effect="#path-effect951">
+      <path
+         style="fill:#5599ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 106.83591,-2.575 L 120.26534,-2.5733171 V -5 C 115.87793,-3.5085567 111.22332,-2.8991701 106.83591,-2.575 Z"
+         id="path891"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="M 106.83591,-2.575 L 120.26534,-2.5733171 V -5 C 115.87793,-3.5085567 111.22332,-2.8991701 106.83591,-2.575 Z" />
+      <path
+         style="fill:#5599ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 106.83591,2.5752744 L 120.26534,2.5735915 V 5.0002744 C 115.87793,3.5088311 111.22332,2.8994445 106.83591,2.5752744 Z"
+         id="path893"
+         sodipodi:nodetypes="cccc"
+         inkscape:original-d="M 106.83591,2.5752744 L 120.26534,2.5735915 V 5.0002744 C 115.87793,3.5088311 111.22332,2.8994445 106.83591,2.5752744 Z" />
+    </g>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+       id="GrundformRect"
+       width="5.4606543"
+       height="5.1394391"
+       x="2.3963935"
+       y="13.77048"
+       rx="0.11701224"
+       ry="0.042002074" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.264583"
+       x="9.9698057"
+       y="17.153351"
+       id="GrundformText"><tspan
+         sodipodi:role="line"
+         id="tspan957"
+         style="fill:#000000;stroke-width:0.264583"
+         x="9.9698057"
+         y="17.153351">Grundform der konischen Bohrung</tspan></text>
+    <g
+       id="KonusButton"
+       transform="translate(-0.78690604)">
+      <rect
+         style="fill-opacity:1;stroke:url(#linearGradient10153);stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="KonusSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="22.145645"
+         rx="1"
+         ry="1" />
+      <g
+         id="KonusAbschnitt"
+         style="fill:#cccccc"
+         transform="translate(0,2.1166667)">
+        <rect
+           id="KonusRect"
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="21.801214"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="25.184084"
+           id="KonusText"><tspan
+             sodipodi:role="line"
+             id="tspan963"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="25.184084">konischer Abschnitt der tatsächlichen Bohrung</tspan></text>
+      </g>
+    </g>
+    <g
+       id="MundstueckButton"
+       transform="translate(-0.78690604)">
+      <rect
+         style="fill-opacity:1;stroke:url(#linearGradient1964);stroke-linecap:round);stroke-width:0.7;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="MundstueckSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="34.198563"
+         rx="1"
+         ry="1" />
+      <g
+         id="MundstueckAbschnitt"
+         transform="translate(0,5.8208336)"
+         style="fill:#cccccc">
+        <rect
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="MundstueckRect"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="30.03723"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="33.420101"
+           id="MundstueckText"><tspan
+             sodipodi:role="line"
+             id="tspan971"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="33.420101">Mundstück bzw. Blatt (ca. dasselbe Volumen wie der fehlende Konusspitze)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="TrichterButton"
+       transform="translate(-0.78690604)">
+      <rect
+         style="fill-opacity:1;stroke:url(#linearGradient1970);stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         class="Bfrei"
+         id="TrichterSchalter"
+         width="118.22028"
+         height="8.4584427"
+         x="2.0705109"
+         y="45.712158"
+         rx="1"
+         ry="1" />
+      <g
+         id="TrichterAbschnitt"
+         transform="translate(0,8.9958338)"
+         style="fill:#cccccc">
+        <rect
+           style="fill:#99999a;fill-opacity:1;stroke:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round"
+           id="TrichterRect"
+           width="5.4606543"
+           height="5.1394391"
+           x="3.2121494"
+           y="38.375824"
+           rx="0.11701224"
+           ry="0.042002074" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans';letter-spacing:0px;word-spacing:0px;fill:#99999a;stroke-width:0.264583;cursor:default;user-select:none"
+           x="10.785562"
+           y="41.758698"
+           id="TrichterText"><tspan
+             sodipodi:role="line"
+             id="tspan977"
+             style="stroke-width:0.264583"
+             x="10.785562"
+             y="41.758698">Ausweitung Schalltrichter</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.00330625,21.814948 L 120.46995,18.814948 L 120.42654,24.814948 Z"
+       id="Roehre"
+       class="unsichtbar"
+       sodipodi:nodetypes="cccc"
+       clip-path="url(#clipPath933)"
+       transform="translate(-0.00331,-21.814948)"
+       inkscape:original-d="M 0.00330625,21.814948 L 120.46995,18.814948 L 120.42654,24.814948 Z"
+       inkscape:path-effect="#path-effect868;#path-effect937;#path-effect2045"
+       mask="url(#mask-powermask-path-effect2045)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.0460176;stroke-linecap:round;stroke-linejoin:round"
+       class="unsichtbar"
+       id="Mundst_Blatt"
+       width="6.5650425"
+       height="0.89522719"
+       x="5.4861202"
+       y="-0.4476136"
+       rx="0.11701231"
+       ry="0.036933616" />
+  </g>
+  <script
+     type="text/javascript"
+     id="script2510"><![CDATA[
+        
+        var KonusCount = 0;
+        var MundstueckCount = 0;
+        var TrichterCount = 0;
+
+        var KonusAbschnitt = document.getElementById("KonusAbschnitt");
+        var KonusRect = document.getElementById("KonusRect");
+        var KonusText = document.getElementById("KonusText");
+        
+        var MundstueckAbschnitt = document.getElementById("MundstueckAbschnitt");
+        var MundstueckRect = document.getElementById("MundstueckRect");
+        var MundstueckText = document.getElementById("MundstueckText");
+        
+        var TrichterAbschnitt = document.getElementById("TrichterAbschnitt");
+        var TrichterRect = document.getElementById("TrichterRect");
+        var TrichterText = document.getElementById("TrichterText");
+        
+        var KonusButton = document.getElementById("KonusButton");
+        var MundstueckButton = document.getElementById("MundstueckButton");
+        var TrichterButton = document.getElementById("TrichterButton");
+        
+        var KonusSchalter = document.getElementById("KonusSchalter");
+        var MundstueckSchalter = document.getElementById("MundstueckSchalter");
+        var TrichterSchalter = document.getElementById("TrichterSchalter");
+        
+        var Konus = document.getElementById("Konus");
+        var Konus_ohne_Spitze = document.getElementById("Konus_ohne_Spitze");
+
+        var Roehre = document.getElementById("Roehre");
+        
+        var Mundst_Blatt = document.getElementById("Mundst_Blatt");
+
+        var Trichter = document.getElementById("Trichter");
+
+        function addEventListeners() {
+
+            KonusButton.addEventListener('mousedown', Konusdruck);
+            KonusButton.addEventListener('mouseup', Konuslos);
+            KonusButton.addEventListener('mouseout', Konusfort);
+
+            MundstueckButton.addEventListener('mousedown', Mundstueckdruck);
+            MundstueckButton.addEventListener('mouseup', Mundstuecklos);
+            MundstueckButton.addEventListener('mouseout', Mundstueckfort);
+
+            TrichterButton.addEventListener('mousedown', Trichterdruck);
+            TrichterButton.addEventListener('mouseup', Trichterlos);
+            TrichterButton.addEventListener('mouseout', Trichterfort);
+        }
+       
+        addEventListeners()
+        
+        function Konusdruck() {
+            KonusSchalter.classList.remove("Bfrei");
+            KonusSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Konuslos() {
+            KonusSchalter.classList.remove("Bgedrueckt");
+            KonusSchalter.classList.add("Bfrei");
+            if (KonusCount == 0) {
+            KonusRect.style.fill = "#ffffff";
+            KonusText.style.fill = "#ffffff";
+            Roehre.classList.remove("unsichtbar");
+            Roehre.classList.add("sichtbar");
+            KonusCount = 1;
+            }
+            else {
+            KonusRect.style.fill = "#99999a";
+            KonusText.style.fill = "#99999a";
+            Roehre.classList.remove("sichtbar");
+            Roehre.classList.add("unsichtbar");
+            KonusCount = 0;
+            }
+        }
+        
+        function Konusfort() {
+            KonusSchalter.classList.remove("Bgedrueckt");
+            KonusSchalter.classList.add("Bfrei");
+            
+        }
+        
+        function Mundstueckdruck() {
+            MundstueckSchalter.classList.remove("Bfrei");
+            MundstueckSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Mundstuecklos() {
+            MundstueckSchalter.classList.remove("Bgedrueckt");
+            MundstueckSchalter.classList.add("Bfrei");
+            if (MundstueckCount == 0) {
+            MundstueckRect.style.fill = "#ff8080";
+            MundstueckText.style.fill = "#ff8080";
+            Mundst_Blatt.classList.remove("unsichtbar");
+            Mundst_Blatt.classList.add("sichtbar");
+            Konus.classList.remove("sichtbar");
+            Konus.classList.add("unsichtbar");
+            MundstueckCount = 1;
+            }
+            else {
+            MundstueckRect.style.fill = "#99999a";
+            MundstueckText.style.fill = "#99999a";
+            Mundst_Blatt.classList.remove("sichtbar");
+            Mundst_Blatt.classList.add("unsichtbar");
+            Konus.classList.remove("unsichtbar");
+            Konus.classList.add("sichtbar");
+            MundstueckCount = 0;
+            }
+        }
+        
+        function Mundstueckfort() {
+            MundstueckSchalter.classList.remove("Bgedrueckt");
+            MundstueckSchalter.classList.add("Bfrei");
+            
+        }
+        
+        
+        function Trichterdruck() {
+            TrichterSchalter.classList.remove("Bfrei");
+            TrichterSchalter.classList.add("Bgedrueckt");
+        }
+        
+        function Trichterlos() {
+            TrichterSchalter.classList.remove("Bgedrueckt");
+            TrichterSchalter.classList.add("Bfrei");
+            if (TrichterCount == 0) {
+            TrichterRect.style.fill = "#89bbff";
+            TrichterText.style.fill = "#89bbff";
+            Trichter.classList.remove("unsichtbar");
+            Trichter.classList.add("sichtbar");
+            TrichterCount = 1;
+            }
+            else {
+            TrichterRect.style.fill = "#99999a";
+            TrichterText.style.fill = "#99999a";
+            Trichter.classList.remove("sichtbar");
+            Trichter.classList.add("unsichtbar");
+            TrichterCount = 0;
+            }
+        }
+        
+        function Trichterfort() {
+            TrichterSchalter.classList.remove("Bgedrueckt");
+            TrichterSchalter.classList.add("Bfrei");
+            
+        }
+
+    ]]></script>
+</svg>

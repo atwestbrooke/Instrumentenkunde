@@ -1,0 +1,139 @@
+Instrumentenkunde – Die Holzblasinstrumente
+
+Der Begriff "Holzblasinstrument" ist etwas irreführend, denn obwohl Instrumente dieser Art ursprünglich generell aus Holz gebaut wurden, werden Instrumente wie das Saxophon oder die Querflöte schon länger aus Metall gebaut. Es Handelt sich um Instrumente, deren Klang dadurch angeregt wird, daß ein Mensch in das Instrument hineinatmet; im Gegensatz zu den allgemein als Blechblasinstrumente bezeichneten Instrumenten wird die Schwingung jedoch nicht ursprünglich durch die gegeneinander vibrierenden Lippen der Musikerin erzeugt, sondern im angeblasenen Instrumente selbst.
+Ein weiteres Merkmal, das die sogenannten Holz- gegenüber den Blechblasinstrumenten auszeichnet, ist die Tonhöhenerzeugung. Bei den Blechinstrumenten wird dies hauptsächlich mittels des Überblasens bewerkstelligt, wobei ein Zug (bei der Posaune) oder wenige (zumeist drei) Ventile zum Einsatz kommen, um differenzierte Tonhöhenabstufungen zu ermöglichen. Bei Holzblasinstrumenten spielt das Überblasen eine weniger ausgeprägte Rolle, während komplexe (Griffloch- oder) Klappensysteme zum Einsatz kommen, um den Löwenanteil der  Arbeit bei der Tonhöhenbestimmung zu leisten.
+Im Gegensatz zur Tonerzeugung bei den Blech- oder Streichinstrumenten, innerhalb welcher Instrumentengruppen der Ton im Wesentlichen immer nach denselben Prinzipien erzeugt wird, geschieht dies bei den verschiedenen Holzblasinstrumenten in recht unterschiedlicher Art und Weise und die Holzblasinstrumente bilden folglich (neben dem Schlagzeug) auch diejenige Gruppe im Orchester, deren Klangfarben von Instrument zu Instrument am stärksten variiert.
+
+
+Übersicht nach Art der Klangerzeugung
+
+Instrumente mit Einfachrohrblatt: Klarinette, Saxophon.
+
+Ein Schilfrohrblatt ist unmittelbar am Mundstück befestigt. Wenn es angeblasen wird, flattert dieses Blatt hin und her. Diese Oszillation bildet die Schwingung, die den Klang anregt.
+
+Der Luftstrom durch die Spalte zwischen Blatt und Mundstück erzeugt einen Unterdruck, der höhere Druck von außen drückt das Blatt an das Mundstück. Dadurch wird die Spalte zwischen Blatt und Mundstück geschlossen und der Luftstrom, dessen Weg durch die Spalte nun gesperrt ist, fließt komplett am Mundstück vorbei. Das Blatt biegt sich aufgrund seiner Festigkeit wieder in seine Ausgangsposition. Dadurch entsteht wieder die Spalte zwischen Blatt und Mundstück, durch welche die Luft nun wieder fließt. Der Vorgang wiederholt sich solange der Luftzufuhr anhält.
+
+Instrumente mit Doppelrohrblatt: Oboe, Fagott.
+
+Zwei aus einem Stück geschnittene Schilfrohrblätter werden am äußeren Ende eines schmalen Rohrs aneinandergebunden, das diese wiederum mit dem Instrumentenkorpus verbindet. Durch dasselbe Unterdruckprinzip wie beim Einfachrohrblatt werden die beiden Bläter aneinandergepreßt. Wenn sie vollständig zusammengeschlossen sind, kann keine Luft mehr dazwischen fließen, der Unterdruck hebt sich auf und die Blätter biegen sich wieder in die Ausgangsstellung. Der Vorgang wiederholt sich solange Luft zugeführt wird.
+
+Instrumente mit Luftblatt: Querflöte, Blockflöte.
+
+Der Luftstrom selbst wird über eine Kante gerichtet und durch diese gespalten, die abwechselnde Führung des Luftstroms an der einen und dann an der anderen Seite der Kante vorbei bildet die Oszillation, welche die Schwingung und damit den Klang des Instruments anregt.
+
+Querflöte:
+
+Der Luftstrom wird über die Kante des Mundlochs gespalten, fließt abwechselnd in das Instrument hinein und über die Mundlochkante weg. So bildet der Luftstrom ein hin und her pendelndes Luftblatt, das eine ähnliche schwingungsanregende Funktion ausübt wie die Schilfrohrblätter der Einfach- und Doppelrohrblattinstrumente.
+
+Blockflöte:
+
+Der Luftstrom wird durch ein Windkanal auf ein sogenanntes Labium gerichtet. Der Luftstrom wird über dieses Labium gespalten, wie bei der Querflöte abwechselnd nach innen und nach außen, bildet somit ein Luftblatt, welches die Schwingung anregt.
+Erzeugung der Tonhöhe.
+
+Tonhöhenerzeugung bei Holzbläsern:
+
+Es gibt zwei Hauptmechanismen, durch welche bei Holzblasinstrumenten verschiedene Tonhöhen erzeugt werden. Das sind zum einen das öffnen oder Schließen von Grifflöchern, bei fast allen Holzblasinstrumenten mittels Klappen. Je länger der Teil des Rohres, der ab dem Mundstück bis zur Schallöffnung kontinuierlich durch Klappen geschlossen wird, umso tiefer der Ton. Zum anderen wird mittels des Überblasens, einer Veränderung des Luftstroms, die wahrgenommene Tonhöhe auf verschiedene Töne aus dem Obertonspektrum des mit den Klappen gegriffenen Tons versetzt. Die Reihen verschiedener Töne, die man mittels Klappen (oder Grifflöcher) ohne Veränderung des Überblasens spielen kann, bezeichnet man als Register. Wenn man den Grad des Überblasens verändert, wird dies als Registerwechsel bezeichnet.
+
+Klappen / Grifflöcher:
+
+Mit den Grifflöchern und Klappen ändert man die effektive (schwingende) Länge des Instruments. Löcher ohne Klappen haben den Vorteil, daß sie einfacher und schneller zugedeckt werden als diejenigen mit Klappen. Klappen haben wiederum die Vorteile, daß die Klappen in regelmäßigen, greifbaren Abständen platziert werden können, während die dadurch bedienten Grifflöcher in den optimalen Größen und Abständen gebohrt werden können, um die richtigen Tonhöhen zu erzeugen. Diese Abstände und Größen sind nicht immer einheitlich oder bei großen Instrumenten gar von der Entfernung her für eine menschliche Hand greifbar.
+
+Schwingungen bauen sich im Rohr zwischen Punkten höchsten (Antiknoten) und geringsten Drucks (Knoten) auf. An den offenen Enden (bei der Flöte am Mundloch und Schallöffnung des Instruments, bei der Oboe, dem Fagott oder der Klarinette nur am Schallbecher) herrscht der atmosphärische Druck, also eine Druckknote. Wo offene Löcher sind, wird ziemlich schnell der atmosphärische Druck erreicht, also verkürzt sich der Röhrenabschnitt zwischen den Knoten und den Antiknoten und dementsprechend die Schwingungsperiode (Länge einer kompletten Welle, s. u.). Dadurch wird die Frequenz erhöht.
+
+Wird hinter dem ersten offenen Griffloch noch ein zusätzliches Griffloch zugemacht, so läßt der Druck bei diesem Loch etwas langsamer nach, die Schwingung wird etwas länger und der Ton entsprechend etwas tiefer. Durch diese sogenannten Gabelgriffe werden mehr Töne (z. B. Halbtonschritte) ermöglicht, ohne daß dafür weitere Grifflöcher gebohrt werden müssen. Durch das teilweise oder komplette Zudecken weiterer Löcher nach dem offenen Griffloch eines Gabelgriffs kann die Tonhöhe minimal noch vertieft werden (das sog. Abdecken, um Intonation zu verbessern oder Mikrotonabstände zu ermöglichen. Diese Griffe tendieren auch dazu, die Klangfarbe zu ändern, was spieltechnisch ausgeglichen werden muß.
+
+Das Überblasen:
+
+Das Überblasen wird in erster Linie durch Änderungen der Luftgebung in Form einer Umstellung der Luftgeschwindigkeit oder des Ansatzes (der Einstellung der Mundöffnung; beeinflußt Richtung und Form der Luftsäule) bewirkt. Hierdurch wird nicht die effektive Länge der schwingenden Luft innerhalb des Instruments geändert, sondern es werden beim Überblasen höhere Schwingungsmodi bevorzugt. Diese sind Schwingungsperioden in ganzzahligen Unterteilungen (1, 1⁄2, 1⁄3, 1⁄4, 1⁄5, usw.) der effektiven Länge, die entsprechend (doppelt, dreifach, vierfach, usw.) so hohe Frequenzen erzeugen. Durch das Überblasen fallen die tieferen weg und kleinere Perioden (das heißt: höhere Frequenzen) bilden die wahrgenommene Tonhöhe. Es sind also in dieser Weise mehrere Töne mit einem Griff zu spielen, die den Teiltönen (s. Blatt: Die Teiltöne über Kontra-c) der Frequenz entsprechen, welche durch eine Schwingung der effektiven Länge des Griffes zum Klingen gebracht wird. Klicken Sie in der Grafik unten auf die Schaltflächen 1 – 5, um die Abbildungen dieser Teilschwingungen hervorzuheben. Durch das Überblasen erstreckt sich der Tonumfang der Holzblasinstrumente über mehrere Oktaven, viel weiter als die eine bis eineinhalb Oktaven, die durch die Klappen ermöglicht werden.
+
+Oktav- und Registerklappen:
+
+Bei der Oboe und dem Saxophon gibt es sogenannte 'Oktavklappen', die dazu betätigt werden, um das Überblasen zu unterstützen. Bei der Klarinette wird in ähnlicher Weise eine Registerklappe eingesetzt, die allerdings nicht in die Oktave, sondern der Duodezime (Oktave plus Quinte) überblasen läßt, da die Klarinette (wie in kürze näher beschrieben wird) als einseitig geschlossenes, zylindrisches Rohr im Grunde nur ungerade Teiltöne spielen und daher auch nur in diese überblasen kann. Das Prinzip ist hierbei, anders als bei den Klappen, die zur Verlängerung der schwingenden Luftsäule die Grifflöcher schließen, daß ein Loch aufgemacht wird, um an einer bestimmten Stelle einen Druckknoten zu setzen. Diejenigen Schwingungsmodi, die in der Nähe dieser Stelle ein Druckminimum erzeugen (Das offene Tonloch und das Druckminimum der Schwingung müssen nicht an absolut derselben Stelle sein, sonst bräuchte man für jeden Ton eine separate Überblasklappe), werden bevorzugt, solche andererseits, die dort einen höheren Druck erzeugen, werden unterdrückt. Eine Einfache Darstellung dieses Prinzips ist in der Abbildung oben zu sehen.
+
+Bei der Blockflöte gibt es analog zur Oktavklappe das Daumenloch, das sich auf der Hinterseite des Instruments befindet. Bei der Querflöte kann dasselbe Prinzip durch das Öffnen einer 'normalen' Klappe an entsprechender Stelle angewandt werden. Beim Fagott werden die Schleif- und Pianoklappen in ähnlicher Weise zur Unterstützung bestimmter Teiltonregister angewandt.
+
+Einfluß von Rohreigenschaften auf Klang und Technik:
+
+Von entscheidender Wichtigkeit für den Klang eines Blasinstruments sind bestimmte Eigenschaften des Röhreninneren. Im Folgenden werden die Aspekte der offenen und geschlossenen Röhren sowie der Bohrung kurz beschrieben. Da diesesich auf die Teiltonbildung im Instrument auswirken, haben sie ebenfalls für das Überblasen Auswirkungen.
+
+Das beidseitig offene Rohr:
+
+Wie bereits angedeutet, sind Flöten beidseitig offene Röhren. Dort, wo die Schwingung angeregt wird – Beim Mundloch der Querflöte oder beim Aufschnitt über dem Labium der Blockflöte – herrscht nahezu der atmosphärische Druck; die Luft kann sich innerhalb der Röhre ausbreiten, sowie aus diese herausfließen. Dasselbe gilt für das Offene Ende am Schallloch (oder analog dazu dort, wo Tonlöcher offen sind). Innerhalb des Instruments allerdings ist der Fluß durch die Röhrenwände beeinträchtigt, die Luft kann nur in Richtung eines dieser Öffnungen fließen. Es entsteht also eine Welle, der 1. Schwingungsmodus mit Druckknoten (geringstem Druck) an den beiden offenen Enden und einer Antiknote (höchstem Druck) in der Mitte zwischen diesen Enden. Alle Schwingungsmodi der Luftsäule erfüllen entsprechende Rahmenbedingungen: Druckknoten an den offenen Enden mit den Antiknoten (und den dazugehörigen Knoten) gleichmäßig zwischen den Enden verteilt. Die Welle wird am Offenen Ende zurückgeworfen, eine komplette Periode erstreckt sich also über die doppelte Länge des Instruments.
+
+Das einseitig geschlossene Rohr:
+
+Vom einseitig geschlossenen Rohr ist die Rede, wenn an einem Ende nur eine Schmale Spalte zwischen Blatt und Instrument bzw. den beiden Teilen des Doppelrohrblatts vorhanden und die restliche effektive Länge des Instruments geschlossen ist. Nur am Schallbecher (bzw. ab dem Punkt, wo die Klappen offen sind) befindet sich eine nennenswerte Öffnung, wo die Luft sich frei ausbreiten kann. Anders als beim beidseitig offenen Rohr befindet sich also an einem Ende (beim Blatt) ein Druckantiknote (Druckmaximum) und ganz am anderen (Schallbecher) ein Druckknote. Dies hat zur Folge, daß die Druckwellen sich im Instrument anders entfalten:
+
+Im Gegensatz zur Welle im beidseitig offenen Rohr, welche Knote → Antiknote → Knote verläuft, paßt in das einseitig geschlossene Rohr lediglich der Wellenabschnitt Antiknote → Knote, also nicht die Hälfte, sondern nur ein Viertel einer kompletten Schwingung. Demzufolge ist die Welle entsprechend nicht zweimal, sondern viermal so lange wie das Rohr, die Frequenz infolgedessen auch nur halb so schnell und der Klang im Vergleich zum beidseitig geöffneten Rohr gleicher Länge eine Oktave tiefer (Die Oktave entspricht immer einem Frequenzverhältnis von 1:2).
+
+Da beim einseitig geschlossenen Rohr an einem Ende immer eine Knote, am Anderen immer eine Antiknote ist, stehen auch die Schwingungsmodi in anderem Verhältnis zueinander. Beim ersten Schwingungsmodus bildet sich wie gerade beschrieben 1⁄4 einer kompletten Periode, beim zweiten 3⁄4, beim dritten 5⁄4 usw.. Die Frequenz des 2. Schwingungsmodus ist also 3× diejenige des Grundtons, die des 3. Schwingungsmodus 5×, des 4. Schwingungsmodus 7× usw.. Es bilden sich also nur die ungeraden Teiltöne.
+Beispiele des einseitig geschlossenen Rohrs sind die Instrumente mitt Einfach. oder Doppelrohrblatt: die Klarinette, die Oboe, das Saxophon und der Fagott. Dennoch weist lediglich die Klarinette den gerade beschriebenen tieferen Grundton und die ungerade Teiltonbildung auf. Grund dafür ist die unterschiedliche Bohrung dieser Instrumente.
+
+Bohrung:
+
+Eine weitere Eigenschaft des Rohrs, die auf den Klang Einfluß hat, ist die Bohrung. Es gibt zwei grundsätzliche Bohrungstypen, den zylindrischen und den konischen. Bei der zylindrischen Bohrung bleibt der Durchmesser des Instruments in (fast) seiner gesamten Länge konstant. Bei der konischen Bohrung hingegen nimmt der Durchmesser des Instruments über die Länge des Instruments zum Schalltrichter hin zu.
+Vordergründig wirkt sich dieser Bohrungsunterschied bei der Gegenüberstellung der Klarinette einerseits mit der Oboe und dem Sopransaxophon andererseits. Klarinetten haben eine zylindrische Bohrung und weisen die Klangeigenschaften des gedackten Rohrs auf, die gerade dargestellt wurden. Oboen und Saxophone haben eine konische Bohrung und produzieren deshalb in ihrem Klangspektrum nicht nur die ungeraden, sondern alle Teiltöne.
+
+Vergleich der Schwingungsmodi bei konischer und zylindrischer Bohrung:
+
+Klicken Sie auf der Schaltflächen für das beidseitig offene Rohr sowie für die konische bzw. zylindrische Bohrung beim einseitig gedackten Rohr, um die verschiedenen Schwingungsmodi (Teiltöne) zu sehen. Für das konische Rohr ist zu sehen, daß der Schalldruck am geschlossenen Ende ein Maximum, am offenen ein Minimum aufweist. Da das Rohr sich aber kontinuierlich ausweitet, verbreitet sich auch die Schallenergie über eine immer größere Fläche und die Welle entfaltet sich mit derselben Periodenlänge wie beim beidseitig offenen Rohr – es sind also alle Teiltöne vorhanden. Wegen der größeren Fläche ist es aber auch so, daß die Maxima über die Röhrenlänge immer geringer werden.
+
+Abweichung vom ideellen Bohrungstypus:
+
+Die Form der Instrumente, egal ob Oboe, Flöte, Klarinette oder Fagott entspricht nie hundertprozentig dem ideellen Konus oder Zylinder. Zum einen stellen die Grifflöcher, auch wenn diese zugedeckt sind, eine Abweichung im Röhrendurchmesser dar (diese muß überhaupt nicht groß sein, um eine Auswirkung zu haben). Außerdem weiten sich Klarinetten stark, Oboen leicht am Schallbecher aus. Diese Ausweitung hat bei Holzblasinstrumenten die Funktion, vor allem bei tiefen Tönen die Resonanz so zu manipulieren, daß die Instrumente möglichst über den gesamten Umfang möglichst im Ton und in der Lautstärke ausgeglichen klingen. Bei dem Fagott sowie der Oboe ist die konische Innenform zudem an der Spitze verformt, die Spitze 'abgeschnitten' und stattdessen das Röhrchen (Oboe) bzw. S-Bogen (Fagott) mit Blatt angebracht.
+
+Diese Abweichungen von der rein konischen oder zylindrischen Bohrung beeinträchtigen die Harmonizität der Obertöne (die Teiltöne stimmen nicht mit der ideellen Form ein, wie wir sie kennenlernen), was sich sowohl auf die Klangfarbe als auch auf die Stimmung von den verschiedenen Überblasregistern miteinander auswirkt. Um diese Phänomene auszugleichen, bedarf es weiterer Eingriffe in die Form des Instruments.
+
+Atem und Artikulation:
+
+Zirkularatmung:
+
+Es dürfte ja offensichtlich sein, daß das Erlernen eines Blasinstruments (Holz sowie Blech) eine gewisse Übung im Ausdauer und Atemkontrolle voraussetzt, um über die alltäglichen Grenzen des Atems hinweg musizieren zu können. Eine Möglichkeit, die Grenzen des Atems praktisch außer Kraft zu setzen ist jedoch die Zirkularatmung (auch Permanentatmung genannt). Diese Technik kann wie folgt zusammengefaßt werden:
+Es wird überschüssige Luft in den Backen gespeichert.
+Wenn neues Atem geholt werden muß, geschieht dies durch die Nase.
+Während des Einatmens, wird die in den Backen gespeicherte Luft für das Spiel eingesetzt, damit dies beim Atmen durch die Nase nahtlos weitergeführt werden kann.
+Möglichst unmerklich wird von der Reserveluft aus den Backen auf die neue Luft aus den Lungen umgeschaltet, das Spiel wird in gewohnter Weise fortgesetzt und ggf. neue Reserveluft in die Backen eingespeist, der Vorgang beginnt aufs Neue.
+
+Einfach-, Doppel- und Trippelzunge
+Entscheidende Merkmale einer Klangfarbe werden durch den Ein- und Ausschwingsvorgänge (Anfänge und Enden) der Töne bestimmt. Typischerweise wird die Zunge für Tonanfänge verwendet. Man unterscheidet zwischen drei wesentlichen Artikulationsweisen:
+Die Einfachzunge: Typisch für die Artikulation am Anfang eines Tons im langsamem oder mäßigem Tempo ist der Konsonant t bzw. d.
+Bei schnelleren Tempi ist zum einen die Doppelzunge: das t bzw. d, welches eher vorne im Mund artikuliert wird, wird durch ein Laut weiter hinten, also k oder g komplementiert. Es entstehen Artikulationspaare t – k t – k t – k usw..
+Des Weiteren gibt es auch noch die Trippelzunge: Hier geht es nicht um das hinzunehmen eines dritten Lauts, sondern lediglich um eine triolische Gruppierung derselben zwei Laute wie bei der Doppelzunge. Dies kann in verschiedenen Arten und Weisen erfolgen, beispielsweise: t – k – t / t – k – t  / t – k – t; t – t – k / t – t – k / t – t – k oder t – k – t / k – t – k / t – k – t k – t – k. Bei letzterem ist vielleicht auffallend, daß es sich wirklich um die gleiche Artikulationsabfolge handelt wie bei der Doppelzunge, wobei der Unterschied einzig in der gedachten Gliederung besteht.
+
+Darüber hinaus ist noch Folgendes anzumerken:
+
+Bei der Klarinette sind Doppel- und Trippelzunge zwar möglich, gehören jedoch wegen des großen Mundstücks, welches beim Spiel in den Mund genommen wird, nicht zur klassischen Spieltechnik dazu.
+Bei der Querflöte, die mit dem Instrument gänzlich außerhalb des Mundes gespielt wird, ist es möglich, auch Plosivlaute (p bzw. b) hinzuzuziehen.
+
+Bei neuerer Musik werden manchmal ganze Silben direkt von KomponistInnen unter den Noten vorgeschrieben, um die Artikulation zu färben, beispielsweise hut hut hut für ein weiches aber aspiriertes Anblasen mit abruptem Abschluß.
+
+Spieltechnische Effekte:
+
+Hier werden nur allgemeine spieltechnischen Effekte der Holzblasinstrumente beschrieben. Ausführlichere Beschreibungen erfolgen dann in der Folgevorlesung anhand der einzelnen Instrumente.
+
+Flatterzunge:
+(Flatterzunge.mp3)
+Die Flatterzunge ist eine Spieltechnik, die eine Mischung aus Artikulation und Effekt darstellt. Die Doppel- und Trippelzunge können als eine Abfolge von Konsonanten verstanden werden. Ähnliches gilt auch für die Flatterzunge, die in zwei verschiedenen Grundtypen ausgeführt wird, die jeweils als vorne und hinten im Mund gerolltes r verstanden werden können. Es entsteht eine regelmäßige, sehr schnelle Störung des Luftstroms, die dem Tremolo von Streich- oder Tasteninstrumenten ähnelt. Die typische Notation für diese Technik besteht aus mindestens drei durch den Notenhals gezogenen Tremolobalken mit dem Zusatz Flz. über der Notenzeile.
+
+Bisbigliando
+(Bisbigliando.mp3)
+Der Bisbigliando ist ein Triller, der auf einer Tonhöhe (oder durch zwei mikrotonal so nahe beieinander liegenden Tonhöhen, daß diese als eine und dieselbe Tonhöhenstufe wahrgenommen werden) ausgeführt wird. Er wird entweder durch das rasche Abwechseln zweier Alternativgriffe für denselben Ton oder durch das schnelle Betätigen von zusätzlichen Klappen, die entweder nur wenig die Tonhöhe abdecken oder gar für die Festlegung der Tonhöhe vollkommen überflüssig sind.
+Es gibt verschiedene Schreibweisen für diese Technik, beispielsweise als Triller über der Note mit demselben Ton in Klammern als Trillerton oder als Tremolo zwischen enharmonisch identischen Tönen; in jedem Fall muß entweder eine Erklärung in einer Legende oder über der Notenzeile vorhanden sein.
+
+Klappengeräusche:
+(Klappengeraeusch.mp3)
+Klappengeräusche sind, wie es der Name ziemlich klar macht, die Klänge, die durch die Klappenmechanik erzeugt werden. Es handelt sich um ziemlich leise, perkussive Klänge, die unter Umständen auch beim normalen Spiel als dazugehöriges Nebengeräusch zu hören sind. Diese werden gerne bei neuerer Musik als gezielter, eigener Klangeffekt vorgeschrieben. Um die Wirkung zu verstärken, können die Klappen etwas kräftiger zugeklappt werden als im normalen Spiel, der Klang bleibt aber trotzdem im Vergleich zum ordinario Spiel leise und wird eher im leiserem Umfeld oder durch das mehrfachbesetzte Klappengeräuschspiel hörbar.
+Die typischste Notation für diese Spieltechnik ist ein Kreuznotenkopf (dies muß zusätzlich entweder in einer Legende erklärt oder mit der Anweisung Klappengeräusche (o. Ä.) über der Notenzeile verdeutlicht werden).
+
+Luftgeräusche:
+(Luftgeraeusch.mp3)
+Bei Luftgeräuschen wird in das Instrument hineingeblasen, sodaß das Rauschen der Luft im Rohr hörbar aber das Blatt nicht zum Schwingen gebracht (bzw. kein Luftblatt erzeugt) wird. Die Bemerkung zur Lautstärke bei den Klappengeräuschen gilt für das Luftgeräusch in noch verstärktem Maße: Dieser Klang, der ohnehin beim normalen Ton vorhanden ist, von diesem jedoch akustisch nahezu komplett überdeckt wird, ist von Natur aus leise und diffus, macht sich nur schwer über andere, normale Klänge hörbar, auch wenn diese nur sehr leise gespielt werden.
+Luftgeräusche können mit verschiedenen Tonanteilen produziert werden, vom reinen, Tonlosen Luftgeräusch bis hin zum normalen Ton mit hohem Luftanteil. Grundsätzlich sind Luftgeräusche nur in den nicht überblasenen Registern möglich, da das Überblasen per se einer Luftführung bedarf, die eine stark resonierende Schwingung und somit einen Ton erzeugt, der das Luftgeräusch akustisch überdeckt.
+
+Mehrklänge
+(Mehrklang_Fl._c'd''.mp3)
+Auch die Bezeichnung Mehrklang ist an und für sich selbsterklärend: Ein Klang, der wiederum aus mehreren Klängen besteht. Es handelt sich um das gleichzeitige Erzeugen mehrerer Töne auf Blasinstrumenten, obwohl diese in der herkömmlichen Technik als Instrumente konzipiert wurden, die nur in der Lage sind, einen Ton auf einmal zu erzeugen.
+Alle akustischen Instrumente erzeugen Klänge, die mehrere Frequenzen (Teiltöne) enthalten. So gesehen, ist jeder Instrumentalklang ein 'Mehrklang'. Die Klänge, die bei Blasinstrumenten als Mehrklang bezeichnet werden, sind allerdings solche, bei denen das Gehirn nicht bloß einen Grundton bewußt und die sonstigen Teiltöne unterbewußt, sondern den Eindruck mehrerer Töne oder eines komplexen Frequenzbündels registriert. Die Bezeichnung Mehrklang wird somit als Abgrenzung vom Wort Akkord verwendet. Im Gegensatz zu einem Akkord, bei dem mehrere konkrete, voneinander separate Töne festzustellen sind, ist ein Mehrklang ein Klang (vielleicht eher eine Klangfarbe), bei dem nicht nur eine einzelne Frequenz eindeutig als klingende Tonhöhe wahrzunehmen ist.
+Merklänge werden durch eine Mischung aus Spezialgriffen und Umstellungen des Ansatzes oder des Luftstroms erzeugt.
+
+

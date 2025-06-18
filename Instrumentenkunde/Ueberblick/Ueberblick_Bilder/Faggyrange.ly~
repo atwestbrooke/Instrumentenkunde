@@ -1,0 +1,9 @@
+\score {
+ \relative b,, { 
+  \clef „bass“ 
+  \once \hide Staff.TimeSignature
+    b1 }
+
+}
+
+\version "2.20.0"

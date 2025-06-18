@@ -1,0 +1,61 @@
+<!doctype html>
+
+<html lang="de">
+    
+    <body style="background-color:rgb(50, 50, 50)">
+    <audio id="music" preload="true">
+        <source src="../Instrumente/Saiteninstr./Streichinstr./Violine_Medien/Violine_Tonbeispiele/Mahler4.wav" type="audio/wav" />
+    </audio>
+    
+    <style>
+        #playbutton{
+             height:50px;
+             width: 50px;
+             border: none;
+             background-size: 60% 60%;
+             background-position: center;
+             float: left;
+        }
+        .play{background: url('Play2.svg') no-repeat;}
+        .pause{background: url('Pause2.svg') no-repeat;}
+        
+        #timeline{
+              width: 400px;
+              height: 16px;
+              Background-image: url('Fortschritt.svg');
+              margin-top: 17px;
+              float: left;
+              border-radius: 8px;
+        }
+    
+        #playhead{
+              width: 12px;
+              height: 12px;
+              border-radius: 50%;
+              margin-top: 2px;
+              margin-left: 2px;
+              background-image: linear-gradient(to top right, rgba(217, 217, 217, 0.46), rgba(235, 235, 235, 0.6))
+        }
+        
+        #audioplayer{
+              width:465px;
+              height: 50px;
+              border: none;
+              border-radius: 4px;
+              Background-image: url('playerbg.svg');
+        }     
+    </style>
+    
+    <div id="audioplayer">
+        <button id="playbutton" class="play"></button>
+        <div id="timeline">
+            <div id="playhead"></div>
+        </div>
+    </div>
+    
+    </body>
+    
+    <!-- variable to store HTML5 audio element -->
+    
+    <script src="Audioplayer.js" type="text/javascript"></script>
+    
