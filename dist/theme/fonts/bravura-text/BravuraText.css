@@ -1,39 +1,39 @@
 @font-face {
     font-family: 'BravuraText';
-    src: url('BravuraText.eot');
-    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
-         url('BravuraText.woff') format('woff'),
-         url('BravuraText.woff2') format('woff2');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff') format('woff'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BravuraText';
-    src: url('BravuraText.eot');
-    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
-         url('BravuraText.woff') format('woff'),
-         url('BravuraText.woff2') format('woff2');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff') format('woff'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'BravuraText';
-    src: url('BravuraText.eot');
-    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
-         url('BravuraText.woff') format('woff'),
-         url('BravuraText.woff2') format('woff2');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff') format('woff'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BravuraText';
-    src: url('BravuraText.eot');
-    src: url('BravuraText.eot?#iefix') format('embedded-opentype'),
-         url('BravuraText.woff') format('woff'),
-         url('BravuraText.woff2') format('woff2');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot');
+    src: url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.eot?#iefix') format('embedded-opentype'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff') format('woff'),
+         url('https://ikwestbrooke-ss25.netlify.app/dist/theme/fonts/bravura-text/BravuraText.woff2') format('woff2');
     font-weight: 600;
     font-style: italic;
 }
