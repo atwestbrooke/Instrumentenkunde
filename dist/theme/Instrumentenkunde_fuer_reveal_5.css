@@ -1,12 +1,12 @@
 /* Instrumentenkunde template for reveal.js
 */
 
-@import url('./fonts/Libertinus-7.040/static/Libertinus.css?family=LibertinusSans');
-@import url('./fonts/Libertinus-7.040/static/Libertinus.css?family=LibertinusSerif');
-@import url('./fonts/Libertinus-7.040/static/Libertinus.css?family=LibertinusMath');
-@import url('./fonts/bravura-text/BravuraText.css?family=BravuraText');
-@import url('./fonts/bravura/Bravura.css?family=Bravura');
-@import url('./fonts/source-sans-pro/source-sans-pro.css');
+@import url('/dist/theme/fonts/Libertinus-7.040/static/Libertinus.css?family=LibertinusSans');
+@import url('/dist/theme/fonts/Libertinus-7.040/static/Libertinus.css?family=LibertinusSerif');
+@import url('/dist/theme/fonts/Libertinus-7.040/static/Libertinus.css?family=LibertinusMath');
+@import url('/dist/theme/fonts/bravura-text/BravuraText.css?family=BravuraText');
+@import url('/dist/theme/fonts/bravura/Bravura.css?family=Bravura');
+@import url('/dist/theme/fonts/source-sans-pro/source-sans-pro.css');
 
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222;
