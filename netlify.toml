@@ -1,0 +1,6 @@
+[build]
+  publish = "."  # Your publish directory, change if needed
+
+[[edge_functions]]
+  path = "/*"           # Protect all routes
+  function = "basic-auth"  # Name of your edge function file (basic-auth.js)
