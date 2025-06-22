@@ -1,7 +1,7 @@
 export default async (request, context) => {
   const auth = request.headers.get("authorization");
 
-  const expected = "Basic " + btoa("Student:organology25");
+  const expected = "Basic " + btoa("Studierende:organology25");
 
   if (auth === expected) {
     return context.next();
